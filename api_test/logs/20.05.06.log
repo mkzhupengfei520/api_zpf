@@ -1,0 +1,48 @@
+[2020-05-06 15:44:30,978] - logger.py] - INFO: ------执行测试用例------
+[2020-05-06 15:44:30,979] - logger.py] - INFO: 本次请求接口详细路径:http://market.shixhmit.com/raffleActivityReward/getRewardByActId
+[2020-05-06 15:44:30,997] - logger.py] - INFO: 请求结果：{"code":60003,"message":"未登陆"}
+
+[2020-05-06 15:44:30,997] - logger.py] - INFO: ------测试用例执行完成，f开始对比结果------
+[2020-05-06 15:44:30,998] - logger.py] - INFO: 测试结果比对
+[2020-05-06 15:44:30,998] - logger.py] - INFO: 预期结果:200,实际结果:200
+[2020-05-06 15:44:30,999] - logger.py] - INFO: 打印参数：{'actId': '453'}
+[2020-05-06 15:44:31,003] - logger.py] - INFO: ------执行测试用例------
+[2020-05-06 15:44:31,003] - logger.py] - INFO: 本次请求接口详细路径:http://market.shixhmit.com/raffleActivityReward/getRewardByActId
+[2020-05-06 15:44:31,008] - logger.py] - INFO: 请求结果：{"code":60003,"message":"未登陆"}
+
+[2020-05-06 15:44:31,009] - logger.py] - INFO: ------测试用例执行完成，f开始对比结果------
+[2020-05-06 15:44:31,009] - logger.py] - INFO: 测试结果比对
+[2020-05-06 15:44:31,010] - logger.py] - INFO: 预期结果:200,实际结果:200
+[2020-05-06 15:44:31,010] - logger.py] - INFO: 打印参数：{'actId': '244'}
+[2020-05-06 15:44:31,011] - logger.py] - INFO: ------执行测试用例------
+[2020-05-06 15:44:31,012] - logger.py] - INFO: 本次请求接口详细路径:http://market.shixhmit.com/raffleActivityReward/getRewardByActId
+[2020-05-06 15:44:31,017] - logger.py] - INFO: 请求结果：{"code":60003,"message":"未登陆"}
+
+[2020-05-06 15:44:31,018] - logger.py] - INFO: ------测试用例执行完成，f开始对比结果------
+[2020-05-06 15:44:31,018] - logger.py] - INFO: 测试结果比对
+[2020-05-06 15:44:31,019] - logger.py] - INFO: 预期结果:200,实际结果:200
+[2020-05-06 15:44:31,019] - logger.py] - INFO: 打印参数：{'actId': '111'}
+[2020-05-06 15:44:31,020] - logger.py] - INFO: ------执行测试用例------
+[2020-05-06 15:44:31,020] - logger.py] - INFO: 本次请求接口详细路径:http://market.shixhmit.com/raffleActivityReward/getRewardByActId
+[2020-05-06 15:44:31,034] - logger.py] - INFO: 请求结果：{"code":60003,"message":"未登陆"}
+
+[2020-05-06 15:44:31,035] - logger.py] - INFO: ------测试用例执行完成，f开始对比结果------
+[2020-05-06 15:44:31,035] - logger.py] - INFO: 测试结果比对
+[2020-05-06 15:44:31,036] - logger.py] - INFO: 预期结果:200,实际结果:200
+[2020-05-06 15:44:31,036] - logger.py] - INFO: 打印参数：{'actId': '222'}
+[2020-05-06 15:44:31,037] - logger.py] - INFO: ------执行测试用例------
+[2020-05-06 15:44:31,038] - logger.py] - INFO: 本次请求接口详细路径:http://market.shixhmit.com/raffleActivityReward/getRewardByActId
+[2020-05-06 15:44:31,043] - logger.py] - INFO: 请求结果：{"code":60003,"message":"未登陆"}
+
+[2020-05-06 15:44:31,044] - logger.py] - INFO: ------测试用例执行完成，f开始对比结果------
+[2020-05-06 15:44:31,044] - logger.py] - INFO: 测试结果比对
+[2020-05-06 15:44:31,045] - logger.py] - INFO: 预期结果:200,实际结果:200
+[2020-05-06 15:44:31,045] - logger.py] - INFO: 打印参数：{'actId': '333'}
+[2020-05-06 15:44:31,046] - logger.py] - INFO: ------执行测试用例------
+[2020-05-06 15:44:31,047] - logger.py] - INFO: 本次请求接口详细路径:http://market.shixhmit.com/raffleActivityReward/getRewardByActId
+[2020-05-06 15:44:31,052] - logger.py] - INFO: 请求结果：{"code":60003,"message":"未登陆"}
+
+[2020-05-06 15:44:31,052] - logger.py] - INFO: ------测试用例执行完成，f开始对比结果------
+[2020-05-06 15:44:31,053] - logger.py] - INFO: 测试结果比对
+[2020-05-06 15:44:31,053] - logger.py] - INFO: 预期结果:200,实际结果:200
+[2020-05-06 15:44:31,054] - logger.py] - INFO: 打印参数：{'actId': '500'}

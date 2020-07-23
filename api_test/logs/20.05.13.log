@@ -1,0 +1,598 @@
+[2020-05-13 11:53:46,610] - logger.py] - INFO: ------执行测试用例------
+[2020-05-13 11:53:46,612] - logger.py] - INFO: 本次请求接口详细路径:http://market.shixhmit.com/raffleActivityReward/getRewardByActId
+[2020-05-13 11:53:46,672] - logger.py] - INFO: 请求结果：{"code":4001,"message":"参数不能为空!","data":null}
+[2020-05-13 11:53:46,674] - logger.py] - INFO: ------测试用例执行完成，f开始对比结果------
+[2020-05-13 11:53:46,676] - logger.py] - INFO: 测试结果比对
+[2020-05-13 11:53:46,677] - logger.py] - INFO: 预期结果:200,实际结果:200
+[2020-05-13 11:53:46,679] - logger.py] - INFO: 打印参数：{'actId': '453'}
+[2020-05-13 11:53:46,681] - logger.py] - INFO: 预期message:ok,实际message:None
+[2020-05-13 11:53:46,683] - logger.py] - INFO: 预期message code:0,实际message code:4001
+[2020-05-13 11:53:46,685] - logger.py] - INFO: ------执行测试用例------
+[2020-05-13 11:53:46,687] - logger.py] - INFO: 本次请求接口详细路径:http://market.shixhmit.com/raffleActivityReward/getRewardByActId
+[2020-05-13 11:53:46,700] - logger.py] - INFO: 请求结果：{"code":4001,"message":"参数不能为空!","data":null}
+[2020-05-13 11:53:46,702] - logger.py] - INFO: ------测试用例执行完成，f开始对比结果------
+[2020-05-13 11:53:46,704] - logger.py] - INFO: 测试结果比对
+[2020-05-13 11:53:46,706] - logger.py] - INFO: 预期结果:200,实际结果:200
+[2020-05-13 11:53:46,707] - logger.py] - INFO: 打印参数：{'actId': '244'}
+[2020-05-13 11:53:46,709] - logger.py] - INFO: 预期message:ok,实际message:None
+[2020-05-13 11:53:46,711] - logger.py] - INFO: 预期message code:0,实际message code:4001
+[2020-05-13 11:53:46,713] - logger.py] - INFO: ------执行测试用例------
+[2020-05-13 11:53:46,715] - logger.py] - INFO: 本次请求接口详细路径:http://market.shixhmit.com/raffleActivityReward/getRewardByActId
+[2020-05-13 11:53:46,727] - logger.py] - INFO: 请求结果：{"code":4001,"message":"参数不能为空!","data":null}
+[2020-05-13 11:53:46,729] - logger.py] - INFO: ------测试用例执行完成，f开始对比结果------
+[2020-05-13 11:53:46,730] - logger.py] - INFO: 测试结果比对
+[2020-05-13 11:53:46,732] - logger.py] - INFO: 预期结果:200,实际结果:200
+[2020-05-13 11:53:46,733] - logger.py] - INFO: 打印参数：{'actId': '111'}
+[2020-05-13 11:53:46,735] - logger.py] - INFO: 预期message:ok,实际message:None
+[2020-05-13 11:53:46,736] - logger.py] - INFO: 预期message code:0,实际message code:4001
+[2020-05-13 11:53:46,738] - logger.py] - INFO: ------执行测试用例------
+[2020-05-13 11:53:46,740] - logger.py] - INFO: 本次请求接口详细路径:http://market.shixhmit.com/raffleActivityReward/getRewardByActId
+[2020-05-13 11:53:46,752] - logger.py] - INFO: 请求结果：{"code":4001,"message":"参数不能为空!","data":null}
+[2020-05-13 11:53:46,753] - logger.py] - INFO: ------测试用例执行完成，f开始对比结果------
+[2020-05-13 11:53:46,754] - logger.py] - INFO: 测试结果比对
+[2020-05-13 11:53:46,756] - logger.py] - INFO: 预期结果:200,实际结果:200
+[2020-05-13 11:53:46,757] - logger.py] - INFO: 打印参数：{'actId': '222'}
+[2020-05-13 11:53:46,759] - logger.py] - INFO: 预期message:ok,实际message:None
+[2020-05-13 11:53:46,760] - logger.py] - INFO: 预期message code:0,实际message code:4001
+[2020-05-13 11:53:46,762] - logger.py] - INFO: ------执行测试用例------
+[2020-05-13 11:53:46,763] - logger.py] - INFO: 本次请求接口详细路径:http://market.shixhmit.com/raffleActivityReward/getRewardByActId
+[2020-05-13 11:53:46,774] - logger.py] - INFO: 请求结果：{"code":4001,"message":"参数不能为空!","data":null}
+[2020-05-13 11:53:46,775] - logger.py] - INFO: ------测试用例执行完成，f开始对比结果------
+[2020-05-13 11:53:46,776] - logger.py] - INFO: 测试结果比对
+[2020-05-13 11:53:46,778] - logger.py] - INFO: 预期结果:200,实际结果:200
+[2020-05-13 11:53:46,779] - logger.py] - INFO: 打印参数：{'actId': '333'}
+[2020-05-13 11:53:46,781] - logger.py] - INFO: 预期message:ok,实际message:None
+[2020-05-13 11:53:46,782] - logger.py] - INFO: 预期message code:0,实际message code:4001
+[2020-05-13 11:53:46,784] - logger.py] - INFO: ------执行测试用例------
+[2020-05-13 11:53:46,785] - logger.py] - INFO: 本次请求接口详细路径:http://market.shixhmit.com/raffleActivityReward/getRewardByActId
+[2020-05-13 11:53:46,797] - logger.py] - INFO: 请求结果：{"code":4001,"message":"参数不能为空!","data":null}
+[2020-05-13 11:53:46,798] - logger.py] - INFO: ------测试用例执行完成，f开始对比结果------
+[2020-05-13 11:53:46,800] - logger.py] - INFO: 测试结果比对
+[2020-05-13 11:53:46,801] - logger.py] - INFO: 预期结果:200,实际结果:200
+[2020-05-13 11:53:46,803] - logger.py] - INFO: 打印参数：{'actId': '500'}
+[2020-05-13 11:53:46,805] - logger.py] - INFO: 预期message:ok,实际message:None
+[2020-05-13 11:53:46,806] - logger.py] - INFO: 预期message code:0,实际message code:4001
+[2020-05-13 11:53:46,808] - logger.py] - INFO: ------执行测试用例------
+[2020-05-13 11:53:46,810] - logger.py] - INFO: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa：{"pageNum": "0"}
+[2020-05-13 11:53:46,813] - logger.py] - INFO: 本次请求接口详细路径:http://market.shixhuat.com/banner/chooseFenfaGroupList
+[2020-05-13 11:53:46,844] - logger.py] - INFO: 请求结果：{"code":60003,"message":"未登陆"}
+
+[2020-05-13 11:53:46,846] - logger.py] - INFO: ------测试用例执行完成，f开始对比结果------
+[2020-05-13 11:53:46,848] - logger.py] - INFO: 测试结果比对
+[2020-05-13 11:53:46,849] - logger.py] - INFO: 预期结果:200,实际结果:200
+[2020-05-13 11:53:46,851] - logger.py] - INFO: 打印参数：{'pageNum': '0'}
+[2020-05-13 11:57:43,928] - logger.py] - INFO: ------执行测试用例------
+[2020-05-13 11:57:43,932] - logger.py] - INFO: 本次请求接口详细路径:http://market.shixhmit.com/raffleActivityReward/getRewardByActId
+[2020-05-13 11:57:43,991] - logger.py] - INFO: 请求结果：{"code":4001,"message":"参数不能为空!","data":null}
+[2020-05-13 11:57:43,993] - logger.py] - INFO: ------测试用例执行完成，f开始对比结果------
+[2020-05-13 11:57:43,995] - logger.py] - INFO: 测试结果比对
+[2020-05-13 11:57:43,998] - logger.py] - INFO: 预期结果:200,实际结果:200
+[2020-05-13 11:57:44,000] - logger.py] - INFO: 打印参数：{'actId': '453'}
+[2020-05-13 11:57:44,003] - logger.py] - INFO: 预期message:ok,实际message:None
+[2020-05-13 11:57:44,006] - logger.py] - INFO: 预期message code:0,实际message code:4001
+[2020-05-13 11:57:44,009] - logger.py] - INFO: ------执行测试用例------
+[2020-05-13 11:57:44,011] - logger.py] - INFO: 本次请求接口详细路径:http://market.shixhmit.com/raffleActivityReward/getRewardByActId
+[2020-05-13 11:57:44,027] - logger.py] - INFO: 请求结果：{"code":4001,"message":"参数不能为空!","data":null}
+[2020-05-13 11:57:44,028] - logger.py] - INFO: ------测试用例执行完成，f开始对比结果------
+[2020-05-13 11:57:44,030] - logger.py] - INFO: 测试结果比对
+[2020-05-13 11:57:44,031] - logger.py] - INFO: 预期结果:200,实际结果:200
+[2020-05-13 11:57:44,033] - logger.py] - INFO: 打印参数：{'actId': '244'}
+[2020-05-13 11:57:44,034] - logger.py] - INFO: 预期message:ok,实际message:None
+[2020-05-13 11:57:44,036] - logger.py] - INFO: 预期message code:0,实际message code:4001
+[2020-05-13 11:57:44,037] - logger.py] - INFO: ------执行测试用例------
+[2020-05-13 11:57:44,039] - logger.py] - INFO: 本次请求接口详细路径:http://market.shixhmit.com/raffleActivityReward/getRewardByActId
+[2020-05-13 11:57:44,052] - logger.py] - INFO: 请求结果：{"code":4001,"message":"参数不能为空!","data":null}
+[2020-05-13 11:57:44,054] - logger.py] - INFO: ------测试用例执行完成，f开始对比结果------
+[2020-05-13 11:57:44,055] - logger.py] - INFO: 测试结果比对
+[2020-05-13 11:57:44,056] - logger.py] - INFO: 预期结果:200,实际结果:200
+[2020-05-13 11:57:44,058] - logger.py] - INFO: 打印参数：{'actId': '111'}
+[2020-05-13 11:57:44,059] - logger.py] - INFO: 预期message:ok,实际message:None
+[2020-05-13 11:57:44,061] - logger.py] - INFO: 预期message code:0,实际message code:4001
+[2020-05-13 11:57:44,063] - logger.py] - INFO: ------执行测试用例------
+[2020-05-13 11:57:44,064] - logger.py] - INFO: 本次请求接口详细路径:http://market.shixhmit.com/raffleActivityReward/getRewardByActId
+[2020-05-13 11:57:44,075] - logger.py] - INFO: 请求结果：{"code":4001,"message":"参数不能为空!","data":null}
+[2020-05-13 11:57:44,077] - logger.py] - INFO: ------测试用例执行完成，f开始对比结果------
+[2020-05-13 11:57:44,078] - logger.py] - INFO: 测试结果比对
+[2020-05-13 11:57:44,080] - logger.py] - INFO: 预期结果:200,实际结果:200
+[2020-05-13 11:57:44,081] - logger.py] - INFO: 打印参数：{'actId': '222'}
+[2020-05-13 11:57:44,082] - logger.py] - INFO: 预期message:ok,实际message:None
+[2020-05-13 11:57:44,084] - logger.py] - INFO: 预期message code:0,实际message code:4001
+[2020-05-13 11:57:44,086] - logger.py] - INFO: ------执行测试用例------
+[2020-05-13 11:57:44,087] - logger.py] - INFO: 本次请求接口详细路径:http://market.shixhmit.com/raffleActivityReward/getRewardByActId
+[2020-05-13 11:57:44,106] - logger.py] - INFO: 请求结果：{"code":4001,"message":"参数不能为空!","data":null}
+[2020-05-13 11:57:44,108] - logger.py] - INFO: ------测试用例执行完成，f开始对比结果------
+[2020-05-13 11:57:44,109] - logger.py] - INFO: 测试结果比对
+[2020-05-13 11:57:44,111] - logger.py] - INFO: 预期结果:200,实际结果:200
+[2020-05-13 11:57:44,112] - logger.py] - INFO: 打印参数：{'actId': '333'}
+[2020-05-13 11:57:44,114] - logger.py] - INFO: 预期message:ok,实际message:None
+[2020-05-13 11:57:44,116] - logger.py] - INFO: 预期message code:0,实际message code:4001
+[2020-05-13 11:57:44,117] - logger.py] - INFO: ------执行测试用例------
+[2020-05-13 11:57:44,119] - logger.py] - INFO: 本次请求接口详细路径:http://market.shixhmit.com/raffleActivityReward/getRewardByActId
+[2020-05-13 11:57:44,132] - logger.py] - INFO: 请求结果：{"code":4001,"message":"参数不能为空!","data":null}
+[2020-05-13 11:57:44,134] - logger.py] - INFO: ------测试用例执行完成，f开始对比结果------
+[2020-05-13 11:57:44,135] - logger.py] - INFO: 测试结果比对
+[2020-05-13 11:57:44,137] - logger.py] - INFO: 预期结果:200,实际结果:200
+[2020-05-13 11:57:44,139] - logger.py] - INFO: 打印参数：{'actId': '500'}
+[2020-05-13 11:57:44,141] - logger.py] - INFO: 预期message:ok,实际message:None
+[2020-05-13 11:57:44,143] - logger.py] - INFO: 预期message code:0,实际message code:4001
+[2020-05-13 11:57:44,146] - logger.py] - INFO: ------执行测试用例------
+[2020-05-13 11:57:44,148] - logger.py] - INFO: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa：{"pageNum": "0"}
+[2020-05-13 11:57:44,150] - logger.py] - INFO: 本次请求接口详细路径:http://market.shixhuat.com/banner/chooseFenfaGroupList
+[2020-05-13 11:59:46,407] - logger.py] - INFO: ------执行测试用例------
+[2020-05-13 11:59:46,409] - logger.py] - INFO: 本次请求接口详细路径:http://market.shixhmit.com/raffleActivityReward/getRewardByActId
+[2020-05-13 11:59:46,458] - logger.py] - INFO: 请求结果：{"code":4001,"message":"参数不能为空!","data":null}
+[2020-05-13 11:59:46,460] - logger.py] - INFO: ------测试用例执行完成，f开始对比结果------
+[2020-05-13 11:59:46,462] - logger.py] - INFO: 测试结果比对
+[2020-05-13 11:59:46,464] - logger.py] - INFO: 预期结果:200,实际结果:200
+[2020-05-13 11:59:46,465] - logger.py] - INFO: 打印参数：{'actId': '453'}
+[2020-05-13 11:59:46,468] - logger.py] - INFO: 预期message:ok,实际message:None
+[2020-05-13 11:59:46,470] - logger.py] - INFO: 预期message code:0,实际message code:4001
+[2020-05-13 11:59:46,472] - logger.py] - INFO: ------执行测试用例------
+[2020-05-13 11:59:46,474] - logger.py] - INFO: 本次请求接口详细路径:http://market.shixhmit.com/raffleActivityReward/getRewardByActId
+[2020-05-13 11:59:46,492] - logger.py] - INFO: 请求结果：{"code":4001,"message":"参数不能为空!","data":null}
+[2020-05-13 11:59:46,494] - logger.py] - INFO: ------测试用例执行完成，f开始对比结果------
+[2020-05-13 11:59:46,496] - logger.py] - INFO: 测试结果比对
+[2020-05-13 11:59:46,498] - logger.py] - INFO: 预期结果:200,实际结果:200
+[2020-05-13 11:59:46,499] - logger.py] - INFO: 打印参数：{'actId': '244'}
+[2020-05-13 11:59:46,501] - logger.py] - INFO: 预期message:ok,实际message:None
+[2020-05-13 11:59:46,503] - logger.py] - INFO: 预期message code:0,实际message code:4001
+[2020-05-13 11:59:46,505] - logger.py] - INFO: ------执行测试用例------
+[2020-05-13 11:59:46,507] - logger.py] - INFO: 本次请求接口详细路径:http://market.shixhmit.com/raffleActivityReward/getRewardByActId
+[2020-05-13 11:59:46,520] - logger.py] - INFO: 请求结果：{"code":4001,"message":"参数不能为空!","data":null}
+[2020-05-13 11:59:46,522] - logger.py] - INFO: ------测试用例执行完成，f开始对比结果------
+[2020-05-13 11:59:46,524] - logger.py] - INFO: 测试结果比对
+[2020-05-13 11:59:46,526] - logger.py] - INFO: 预期结果:200,实际结果:200
+[2020-05-13 11:59:46,527] - logger.py] - INFO: 打印参数：{'actId': '111'}
+[2020-05-13 11:59:46,529] - logger.py] - INFO: 预期message:ok,实际message:None
+[2020-05-13 11:59:46,531] - logger.py] - INFO: 预期message code:0,实际message code:4001
+[2020-05-13 11:59:46,533] - logger.py] - INFO: ------执行测试用例------
+[2020-05-13 11:59:46,534] - logger.py] - INFO: 本次请求接口详细路径:http://market.shixhmit.com/raffleActivityReward/getRewardByActId
+[2020-05-13 11:59:46,549] - logger.py] - INFO: 请求结果：{"code":4001,"message":"参数不能为空!","data":null}
+[2020-05-13 11:59:46,551] - logger.py] - INFO: ------测试用例执行完成，f开始对比结果------
+[2020-05-13 11:59:46,552] - logger.py] - INFO: 测试结果比对
+[2020-05-13 11:59:46,554] - logger.py] - INFO: 预期结果:200,实际结果:200
+[2020-05-13 11:59:46,556] - logger.py] - INFO: 打印参数：{'actId': '222'}
+[2020-05-13 11:59:46,558] - logger.py] - INFO: 预期message:ok,实际message:None
+[2020-05-13 11:59:46,559] - logger.py] - INFO: 预期message code:0,实际message code:4001
+[2020-05-13 11:59:46,562] - logger.py] - INFO: ------执行测试用例------
+[2020-05-13 11:59:46,563] - logger.py] - INFO: 本次请求接口详细路径:http://market.shixhmit.com/raffleActivityReward/getRewardByActId
+[2020-05-13 11:59:46,578] - logger.py] - INFO: 请求结果：{"code":4001,"message":"参数不能为空!","data":null}
+[2020-05-13 11:59:46,580] - logger.py] - INFO: ------测试用例执行完成，f开始对比结果------
+[2020-05-13 11:59:46,582] - logger.py] - INFO: 测试结果比对
+[2020-05-13 11:59:46,583] - logger.py] - INFO: 预期结果:200,实际结果:200
+[2020-05-13 11:59:46,585] - logger.py] - INFO: 打印参数：{'actId': '333'}
+[2020-05-13 11:59:46,587] - logger.py] - INFO: 预期message:ok,实际message:None
+[2020-05-13 11:59:46,589] - logger.py] - INFO: 预期message code:0,实际message code:4001
+[2020-05-13 11:59:46,591] - logger.py] - INFO: ------执行测试用例------
+[2020-05-13 11:59:46,592] - logger.py] - INFO: 本次请求接口详细路径:http://market.shixhmit.com/raffleActivityReward/getRewardByActId
+[2020-05-13 11:59:46,606] - logger.py] - INFO: 请求结果：{"code":4001,"message":"参数不能为空!","data":null}
+[2020-05-13 11:59:46,608] - logger.py] - INFO: ------测试用例执行完成，f开始对比结果------
+[2020-05-13 11:59:46,609] - logger.py] - INFO: 测试结果比对
+[2020-05-13 11:59:46,611] - logger.py] - INFO: 预期结果:200,实际结果:200
+[2020-05-13 11:59:46,613] - logger.py] - INFO: 打印参数：{'actId': '500'}
+[2020-05-13 11:59:46,616] - logger.py] - INFO: 预期message:ok,实际message:None
+[2020-05-13 11:59:46,618] - logger.py] - INFO: 预期message code:0,实际message code:4001
+[2020-05-13 11:59:46,621] - logger.py] - INFO: ------执行测试用例------
+[2020-05-13 11:59:46,624] - logger.py] - INFO: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa：{"pageNum": "0"}
+[2020-05-13 11:59:46,626] - logger.py] - INFO: 本次请求接口详细路径:http://market.shixhuat.com/banner/chooseFenfaGroupList
+[2020-05-13 11:59:46,734] - logger.py] - INFO: 请求结果：{"code":1000,"message":null,"data":{"total":6,"rows":[{"pageNum":null,"pageSize":null,"creator":7728,"creatorName":"朱鹏飞","creatorIp":null,"id":6,"groupName":"zpf分组1"},{"pageNum":null,"pageSize":null,"creator":7816,"creatorName":"高鹏383","creatorIp":null,"id":5,"groupName":"中商团购分组"},{"pageNum":null,"pageSize":null,"creator":7821,"creatorName":"马运","creatorIp":null,"id":4,"groupName":"马云"},{"pageNum":null,"pageSize":null,"creator":7820,"creatorName":"万城市经理","creatorIp":null,"id":3,"groupName":"四爷"},{"pageNum":null,"pageSize":null,"creator":7821,"creatorName":"马运","creatorIp":null,"id":2,"groupName":"测试"},{"pageNum":null,"pageSize":null,"creator":7857,"creatorName":"liujie","creatorIp":null,"id":1,"groupName":"json"}]}}
+[2020-05-13 11:59:46,736] - logger.py] - INFO: ------测试用例执行完成，f开始对比结果------
+[2020-05-13 11:59:46,737] - logger.py] - INFO: 测试结果比对
+[2020-05-13 11:59:46,739] - logger.py] - INFO: 预期结果:200,实际结果:200
+[2020-05-13 11:59:46,741] - logger.py] - INFO: 打印参数：{'pageNum': '0'}
+[2020-05-13 11:59:46,743] - logger.py] - INFO: 预期message:ok,实际message:{'total': 6, 'rows': [{'pageNum': None, 'pageSize': None, 'creator': 7728, 'creatorName': '朱鹏飞', 'creatorIp': None, 'id': 6, 'groupName': 'zpf分组1'}, {'pageNum': None, 'pageSize': None, 'creator': 7816, 'creatorName': '高鹏383', 'creatorIp': None, 'id': 5, 'groupName': '中商团购分组'}, {'pageNum': None, 'pageSize': None, 'creator': 7821, 'creatorName': '马运', 'creatorIp': None, 'id': 4, 'groupName': '马云'}, {'pageNum': None, 'pageSize': None, 'creator': 7820, 'creatorName': '万城市经理', 'creatorIp': None, 'id': 3, 'groupName': '四爷'}, {'pageNum': None, 'pageSize': None, 'creator': 7821, 'creatorName': '马运', 'creatorIp': None, 'id': 2, 'groupName': '测试'}, {'pageNum': None, 'pageSize': None, 'creator': 7857, 'creatorName': 'liujie', 'creatorIp': None, 'id': 1, 'groupName': 'json'}]}
+[2020-05-13 11:59:46,744] - logger.py] - INFO: 预期message code:0,实际message code:1000
+[2020-05-13 13:52:40,813] - logger.py] - INFO: ------执行测试用例------
+[2020-05-13 13:52:40,816] - logger.py] - INFO: 本次请求接口详细路径:http://market.shixhmit.com/raffleActivityReward/getRewardByActId
+[2020-05-13 13:52:40,876] - logger.py] - INFO: 请求结果：{"code":4001,"message":"参数不能为空!","data":null}
+[2020-05-13 13:52:40,879] - logger.py] - INFO: ------测试用例执行完成，f开始对比结果------
+[2020-05-13 13:52:40,881] - logger.py] - INFO: 测试结果比对
+[2020-05-13 13:52:40,882] - logger.py] - INFO: 预期结果:200,实际结果:200
+[2020-05-13 13:52:40,884] - logger.py] - INFO: 打印参数：{'actId': '453'}
+[2020-05-13 13:52:40,887] - logger.py] - INFO: 预期message:ok,实际message:None
+[2020-05-13 13:52:40,890] - logger.py] - INFO: 预期message code:0,实际message code:4001
+[2020-05-13 13:52:40,894] - logger.py] - INFO: ------执行测试用例------
+[2020-05-13 13:52:40,897] - logger.py] - INFO: 本次请求接口详细路径:http://market.shixhmit.com/raffleActivityReward/getRewardByActId
+[2020-05-13 13:52:40,917] - logger.py] - INFO: 请求结果：{"code":4001,"message":"参数不能为空!","data":null}
+[2020-05-13 13:52:40,921] - logger.py] - INFO: ------测试用例执行完成，f开始对比结果------
+[2020-05-13 13:52:40,924] - logger.py] - INFO: 测试结果比对
+[2020-05-13 13:52:40,926] - logger.py] - INFO: 预期结果:200,实际结果:200
+[2020-05-13 13:52:40,929] - logger.py] - INFO: 打印参数：{'actId': '244'}
+[2020-05-13 13:52:40,932] - logger.py] - INFO: 预期message:ok,实际message:None
+[2020-05-13 13:52:40,935] - logger.py] - INFO: 预期message code:0,实际message code:4001
+[2020-05-13 13:52:40,939] - logger.py] - INFO: ------执行测试用例------
+[2020-05-13 13:52:40,942] - logger.py] - INFO: 本次请求接口详细路径:http://market.shixhmit.com/raffleActivityReward/getRewardByActId
+[2020-05-13 13:52:40,962] - logger.py] - INFO: 请求结果：{"code":4001,"message":"参数不能为空!","data":null}
+[2020-05-13 13:52:40,964] - logger.py] - INFO: ------测试用例执行完成，f开始对比结果------
+[2020-05-13 13:52:40,966] - logger.py] - INFO: 测试结果比对
+[2020-05-13 13:52:40,968] - logger.py] - INFO: 预期结果:200,实际结果:200
+[2020-05-13 13:52:40,969] - logger.py] - INFO: 打印参数：{'actId': '111'}
+[2020-05-13 13:52:40,971] - logger.py] - INFO: 预期message:ok,实际message:None
+[2020-05-13 13:52:40,974] - logger.py] - INFO: 预期message code:0,实际message code:4001
+[2020-05-13 13:52:40,977] - logger.py] - INFO: ------执行测试用例------
+[2020-05-13 13:52:40,980] - logger.py] - INFO: 本次请求接口详细路径:http://market.shixhmit.com/raffleActivityReward/getRewardByActId
+[2020-05-13 13:52:40,999] - logger.py] - INFO: 请求结果：{"code":4001,"message":"参数不能为空!","data":null}
+[2020-05-13 13:52:41,000] - logger.py] - INFO: ------测试用例执行完成，f开始对比结果------
+[2020-05-13 13:52:41,004] - logger.py] - INFO: 测试结果比对
+[2020-05-13 13:52:41,006] - logger.py] - INFO: 预期结果:200,实际结果:200
+[2020-05-13 13:52:41,009] - logger.py] - INFO: 打印参数：{'actId': '222'}
+[2020-05-13 13:52:41,011] - logger.py] - INFO: 预期message:ok,实际message:None
+[2020-05-13 13:52:41,013] - logger.py] - INFO: 预期message code:0,实际message code:4001
+[2020-05-13 13:52:41,015] - logger.py] - INFO: ------执行测试用例------
+[2020-05-13 13:52:41,018] - logger.py] - INFO: 本次请求接口详细路径:http://market.shixhmit.com/raffleActivityReward/getRewardByActId
+[2020-05-13 13:52:41,035] - logger.py] - INFO: 请求结果：{"code":4001,"message":"参数不能为空!","data":null}
+[2020-05-13 13:52:41,039] - logger.py] - INFO: ------测试用例执行完成，f开始对比结果------
+[2020-05-13 13:52:41,042] - logger.py] - INFO: 测试结果比对
+[2020-05-13 13:52:41,045] - logger.py] - INFO: 预期结果:200,实际结果:200
+[2020-05-13 13:52:41,048] - logger.py] - INFO: 打印参数：{'actId': '333'}
+[2020-05-13 13:52:41,051] - logger.py] - INFO: 预期message:ok,实际message:None
+[2020-05-13 13:52:41,054] - logger.py] - INFO: 预期message code:0,实际message code:4001
+[2020-05-13 13:52:41,056] - logger.py] - INFO: ------执行测试用例------
+[2020-05-13 13:52:41,058] - logger.py] - INFO: 本次请求接口详细路径:http://market.shixhmit.com/raffleActivityReward/getRewardByActId
+[2020-05-13 13:52:41,077] - logger.py] - INFO: 请求结果：{"code":4001,"message":"参数不能为空!","data":null}
+[2020-05-13 13:52:41,079] - logger.py] - INFO: ------测试用例执行完成，f开始对比结果------
+[2020-05-13 13:52:41,081] - logger.py] - INFO: 测试结果比对
+[2020-05-13 13:52:41,084] - logger.py] - INFO: 预期结果:200,实际结果:200
+[2020-05-13 13:52:41,086] - logger.py] - INFO: 打印参数：{'actId': '500'}
+[2020-05-13 13:52:41,088] - logger.py] - INFO: 预期message:ok,实际message:None
+[2020-05-13 13:52:41,090] - logger.py] - INFO: 预期message code:0,实际message code:4001
+[2020-05-13 13:52:41,093] - logger.py] - INFO: ------执行测试用例------
+[2020-05-13 13:52:41,095] - logger.py] - INFO: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa：{"pageNum": "0"}
+[2020-05-13 13:52:41,097] - logger.py] - INFO: 本次请求接口详细路径:http://market.shixhuat.com/banner/chooseFenfaGroupList
+[2020-05-13 13:52:41,147] - logger.py] - INFO: 请求结果：{"code":1000,"message":null,"data":{"total":6,"rows":[{"pageNum":null,"pageSize":null,"creator":7728,"creatorName":"朱鹏飞","creatorIp":null,"id":6,"groupName":"zpf分组1"},{"pageNum":null,"pageSize":null,"creator":7816,"creatorName":"高鹏383","creatorIp":null,"id":5,"groupName":"中商团购分组"},{"pageNum":null,"pageSize":null,"creator":7821,"creatorName":"马运","creatorIp":null,"id":4,"groupName":"马云"},{"pageNum":null,"pageSize":null,"creator":7820,"creatorName":"万城市经理","creatorIp":null,"id":3,"groupName":"四爷"},{"pageNum":null,"pageSize":null,"creator":7821,"creatorName":"马运","creatorIp":null,"id":2,"groupName":"测试"},{"pageNum":null,"pageSize":null,"creator":7857,"creatorName":"liujie","creatorIp":null,"id":1,"groupName":"json"}]}}
+[2020-05-13 13:52:41,149] - logger.py] - INFO: ------测试用例执行完成，f开始对比结果------
+[2020-05-13 13:52:41,152] - logger.py] - INFO: 测试结果比对
+[2020-05-13 13:52:41,154] - logger.py] - INFO: 预期结果:200,实际结果:200
+[2020-05-13 13:52:41,157] - logger.py] - INFO: 打印参数：{'pageNum': '0'}
+[2020-05-13 13:52:41,159] - logger.py] - INFO: 预期message:ok,实际message:{'total': 6, 'rows': [{'pageNum': None, 'pageSize': None, 'creator': 7728, 'creatorName': '朱鹏飞', 'creatorIp': None, 'id': 6, 'groupName': 'zpf分组1'}, {'pageNum': None, 'pageSize': None, 'creator': 7816, 'creatorName': '高鹏383', 'creatorIp': None, 'id': 5, 'groupName': '中商团购分组'}, {'pageNum': None, 'pageSize': None, 'creator': 7821, 'creatorName': '马运', 'creatorIp': None, 'id': 4, 'groupName': '马云'}, {'pageNum': None, 'pageSize': None, 'creator': 7820, 'creatorName': '万城市经理', 'creatorIp': None, 'id': 3, 'groupName': '四爷'}, {'pageNum': None, 'pageSize': None, 'creator': 7821, 'creatorName': '马运', 'creatorIp': None, 'id': 2, 'groupName': '测试'}, {'pageNum': None, 'pageSize': None, 'creator': 7857, 'creatorName': 'liujie', 'creatorIp': None, 'id': 1, 'groupName': 'json'}]}
+[2020-05-13 13:52:41,162] - logger.py] - INFO: 预期message code:0,实际message code:1000
+[2020-05-13 13:57:22,240] - logger.py] - INFO: ------执行测试用例------
+[2020-05-13 13:57:22,242] - logger.py] - INFO: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa：{"actId": "453"}
+[2020-05-13 13:57:22,244] - logger.py] - INFO: 本次请求接口详细路径:http://market.shixhmit.com/raffleActivityReward/getRewardByActId
+[2020-05-13 13:57:22,297] - logger.py] - INFO: 请求结果：{"code":4001,"message":"参数不能为空!","data":null}
+[2020-05-13 13:57:22,299] - logger.py] - INFO: ------测试用例执行完成，f开始对比结果------
+[2020-05-13 13:57:22,300] - logger.py] - INFO: 测试结果比对
+[2020-05-13 13:57:22,302] - logger.py] - INFO: 预期结果:200,实际结果:200
+[2020-05-13 13:57:22,303] - logger.py] - INFO: 打印参数：{'actId': '453'}
+[2020-05-13 13:57:22,305] - logger.py] - INFO: 预期message:ok,实际message:None
+[2020-05-13 13:57:22,307] - logger.py] - INFO: 预期message code:0,实际message code:4001
+[2020-05-13 13:57:22,309] - logger.py] - INFO: ------执行测试用例------
+[2020-05-13 13:57:22,311] - logger.py] - INFO: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa：{"actId": "244"}
+[2020-05-13 13:57:22,313] - logger.py] - INFO: 本次请求接口详细路径:http://market.shixhmit.com/raffleActivityReward/getRewardByActId
+[2020-05-13 13:57:22,328] - logger.py] - INFO: 请求结果：{"code":4001,"message":"参数不能为空!","data":null}
+[2020-05-13 13:57:22,330] - logger.py] - INFO: ------测试用例执行完成，f开始对比结果------
+[2020-05-13 13:57:22,331] - logger.py] - INFO: 测试结果比对
+[2020-05-13 13:57:22,333] - logger.py] - INFO: 预期结果:200,实际结果:200
+[2020-05-13 13:57:22,334] - logger.py] - INFO: 打印参数：{'actId': '244'}
+[2020-05-13 13:57:22,336] - logger.py] - INFO: 预期message:ok,实际message:None
+[2020-05-13 13:57:22,338] - logger.py] - INFO: 预期message code:0,实际message code:4001
+[2020-05-13 13:57:22,339] - logger.py] - INFO: ------执行测试用例------
+[2020-05-13 13:57:22,341] - logger.py] - INFO: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa：{"actId": "111"}
+[2020-05-13 13:57:22,342] - logger.py] - INFO: 本次请求接口详细路径:http://market.shixhmit.com/raffleActivityReward/getRewardByActId
+[2020-05-13 13:57:22,355] - logger.py] - INFO: 请求结果：{"code":4001,"message":"参数不能为空!","data":null}
+[2020-05-13 13:57:22,357] - logger.py] - INFO: ------测试用例执行完成，f开始对比结果------
+[2020-05-13 13:57:22,359] - logger.py] - INFO: 测试结果比对
+[2020-05-13 13:57:22,360] - logger.py] - INFO: 预期结果:200,实际结果:200
+[2020-05-13 13:57:22,362] - logger.py] - INFO: 打印参数：{'actId': '111'}
+[2020-05-13 13:57:22,363] - logger.py] - INFO: 预期message:ok,实际message:None
+[2020-05-13 13:57:22,365] - logger.py] - INFO: 预期message code:0,实际message code:4001
+[2020-05-13 13:57:22,367] - logger.py] - INFO: ------执行测试用例------
+[2020-05-13 13:57:22,368] - logger.py] - INFO: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa：{"actId": "222"}
+[2020-05-13 13:57:22,370] - logger.py] - INFO: 本次请求接口详细路径:http://market.shixhmit.com/raffleActivityReward/getRewardByActId
+[2020-05-13 13:57:22,383] - logger.py] - INFO: 请求结果：{"code":4001,"message":"参数不能为空!","data":null}
+[2020-05-13 13:57:22,384] - logger.py] - INFO: ------测试用例执行完成，f开始对比结果------
+[2020-05-13 13:57:22,386] - logger.py] - INFO: 测试结果比对
+[2020-05-13 13:57:22,387] - logger.py] - INFO: 预期结果:200,实际结果:200
+[2020-05-13 13:57:22,389] - logger.py] - INFO: 打印参数：{'actId': '222'}
+[2020-05-13 13:57:22,390] - logger.py] - INFO: 预期message:ok,实际message:None
+[2020-05-13 13:57:22,392] - logger.py] - INFO: 预期message code:0,实际message code:4001
+[2020-05-13 13:57:22,394] - logger.py] - INFO: ------执行测试用例------
+[2020-05-13 13:57:22,395] - logger.py] - INFO: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa：{"actId": "333"}
+[2020-05-13 13:57:22,397] - logger.py] - INFO: 本次请求接口详细路径:http://market.shixhmit.com/raffleActivityReward/getRewardByActId
+[2020-05-13 13:57:22,408] - logger.py] - INFO: 请求结果：{"code":4001,"message":"参数不能为空!","data":null}
+[2020-05-13 13:57:22,410] - logger.py] - INFO: ------测试用例执行完成，f开始对比结果------
+[2020-05-13 13:57:22,411] - logger.py] - INFO: 测试结果比对
+[2020-05-13 13:57:22,413] - logger.py] - INFO: 预期结果:200,实际结果:200
+[2020-05-13 13:57:22,414] - logger.py] - INFO: 打印参数：{'actId': '333'}
+[2020-05-13 13:57:22,416] - logger.py] - INFO: 预期message:ok,实际message:None
+[2020-05-13 13:57:22,417] - logger.py] - INFO: 预期message code:0,实际message code:4001
+[2020-05-13 13:57:22,419] - logger.py] - INFO: ------执行测试用例------
+[2020-05-13 13:57:22,421] - logger.py] - INFO: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa：{"actId": "500"}
+[2020-05-13 13:57:22,422] - logger.py] - INFO: 本次请求接口详细路径:http://market.shixhmit.com/raffleActivityReward/getRewardByActId
+[2020-05-13 13:57:22,434] - logger.py] - INFO: 请求结果：{"code":4001,"message":"参数不能为空!","data":null}
+[2020-05-13 13:57:22,435] - logger.py] - INFO: ------测试用例执行完成，f开始对比结果------
+[2020-05-13 13:57:22,437] - logger.py] - INFO: 测试结果比对
+[2020-05-13 13:57:22,438] - logger.py] - INFO: 预期结果:200,实际结果:200
+[2020-05-13 13:57:22,440] - logger.py] - INFO: 打印参数：{'actId': '500'}
+[2020-05-13 13:57:22,441] - logger.py] - INFO: 预期message:ok,实际message:None
+[2020-05-13 13:57:22,443] - logger.py] - INFO: 预期message code:0,实际message code:4001
+[2020-05-13 13:57:22,445] - logger.py] - INFO: ------执行测试用例------
+[2020-05-13 13:57:22,447] - logger.py] - INFO: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa：{"pageNum": "0"}
+[2020-05-13 13:57:22,447] - logger.py] - INFO: 本次请求接口详细路径:http://market.shixhuat.com/banner/chooseFenfaGroupList
+[2020-05-13 13:57:22,485] - logger.py] - INFO: 请求结果：{"code":1000,"message":null,"data":{"total":6,"rows":[{"pageNum":null,"pageSize":null,"creator":7728,"creatorName":"朱鹏飞","creatorIp":null,"id":6,"groupName":"zpf分组1"},{"pageNum":null,"pageSize":null,"creator":7816,"creatorName":"高鹏383","creatorIp":null,"id":5,"groupName":"中商团购分组"},{"pageNum":null,"pageSize":null,"creator":7821,"creatorName":"马运","creatorIp":null,"id":4,"groupName":"马云"},{"pageNum":null,"pageSize":null,"creator":7820,"creatorName":"万城市经理","creatorIp":null,"id":3,"groupName":"四爷"},{"pageNum":null,"pageSize":null,"creator":7821,"creatorName":"马运","creatorIp":null,"id":2,"groupName":"测试"},{"pageNum":null,"pageSize":null,"creator":7857,"creatorName":"liujie","creatorIp":null,"id":1,"groupName":"json"}]}}
+[2020-05-13 13:57:22,487] - logger.py] - INFO: ------测试用例执行完成，f开始对比结果------
+[2020-05-13 13:57:22,488] - logger.py] - INFO: 测试结果比对
+[2020-05-13 13:57:22,490] - logger.py] - INFO: 预期结果:200,实际结果:200
+[2020-05-13 13:57:22,492] - logger.py] - INFO: 打印参数：{'pageNum': '0'}
+[2020-05-13 13:57:22,494] - logger.py] - INFO: 预期message:ok,实际message:{'total': 6, 'rows': [{'pageNum': None, 'pageSize': None, 'creator': 7728, 'creatorName': '朱鹏飞', 'creatorIp': None, 'id': 6, 'groupName': 'zpf分组1'}, {'pageNum': None, 'pageSize': None, 'creator': 7816, 'creatorName': '高鹏383', 'creatorIp': None, 'id': 5, 'groupName': '中商团购分组'}, {'pageNum': None, 'pageSize': None, 'creator': 7821, 'creatorName': '马运', 'creatorIp': None, 'id': 4, 'groupName': '马云'}, {'pageNum': None, 'pageSize': None, 'creator': 7820, 'creatorName': '万城市经理', 'creatorIp': None, 'id': 3, 'groupName': '四爷'}, {'pageNum': None, 'pageSize': None, 'creator': 7821, 'creatorName': '马运', 'creatorIp': None, 'id': 2, 'groupName': '测试'}, {'pageNum': None, 'pageSize': None, 'creator': 7857, 'creatorName': 'liujie', 'creatorIp': None, 'id': 1, 'groupName': 'json'}]}
+[2020-05-13 13:57:22,496] - logger.py] - INFO: 预期message code:0,实际message code:1000
+[2020-05-13 14:02:13,765] - logger.py] - INFO: ------执行测试用例------
+[2020-05-13 14:02:13,767] - logger.py] - INFO: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa：{"actId": "453"}
+[2020-05-13 14:02:13,769] - logger.py] - INFO: 本次请求接口详细路径:http://market.shixhmit.com/raffleActivityReward/getRewardByActId
+[2020-05-13 14:02:13,821] - logger.py] - INFO: 请求结果：{"code":4001,"message":"参数不能为空!","data":null}
+[2020-05-13 14:02:13,823] - logger.py] - INFO: ------测试用例执行完成，f开始对比结果------
+[2020-05-13 14:02:13,825] - logger.py] - INFO: 测试结果比对
+[2020-05-13 14:02:13,827] - logger.py] - INFO: 预期结果:200,实际结果:200
+[2020-05-13 14:02:13,827] - logger.py] - INFO: 打印参数：{'actId': '453'}
+[2020-05-13 14:02:13,830] - logger.py] - INFO: 预期message:ok,实际message:None
+[2020-05-13 14:02:13,832] - logger.py] - INFO: 预期message code:0,实际message code:4001
+[2020-05-13 14:02:13,834] - logger.py] - INFO: ------执行测试用例------
+[2020-05-13 14:02:13,836] - logger.py] - INFO: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa：{"actId": "244"}
+[2020-05-13 14:02:13,836] - logger.py] - INFO: 本次请求接口详细路径:http://market.shixhmit.com/raffleActivityReward/getRewardByActId
+[2020-05-13 14:02:13,851] - logger.py] - INFO: 请求结果：{"code":4001,"message":"参数不能为空!","data":null}
+[2020-05-13 14:02:13,853] - logger.py] - INFO: ------测试用例执行完成，f开始对比结果------
+[2020-05-13 14:02:13,855] - logger.py] - INFO: 测试结果比对
+[2020-05-13 14:02:13,857] - logger.py] - INFO: 预期结果:200,实际结果:200
+[2020-05-13 14:02:13,858] - logger.py] - INFO: 打印参数：{'actId': '244'}
+[2020-05-13 14:02:13,860] - logger.py] - INFO: 预期message:ok,实际message:None
+[2020-05-13 14:02:13,862] - logger.py] - INFO: 预期message code:0,实际message code:4001
+[2020-05-13 14:02:13,864] - logger.py] - INFO: ------执行测试用例------
+[2020-05-13 14:02:13,865] - logger.py] - INFO: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa：{"actId": "111"}
+[2020-05-13 14:02:13,867] - logger.py] - INFO: 本次请求接口详细路径:http://market.shixhmit.com/raffleActivityReward/getRewardByActId
+[2020-05-13 14:02:13,886] - logger.py] - INFO: 请求结果：{"code":4001,"message":"参数不能为空!","data":null}
+[2020-05-13 14:02:13,888] - logger.py] - INFO: ------测试用例执行完成，f开始对比结果------
+[2020-05-13 14:02:13,890] - logger.py] - INFO: 测试结果比对
+[2020-05-13 14:02:13,892] - logger.py] - INFO: 预期结果:200,实际结果:200
+[2020-05-13 14:02:13,893] - logger.py] - INFO: 打印参数：{'actId': '111'}
+[2020-05-13 14:02:13,895] - logger.py] - INFO: 预期message:ok,实际message:None
+[2020-05-13 14:02:13,897] - logger.py] - INFO: 预期message code:0,实际message code:4001
+[2020-05-13 14:02:13,899] - logger.py] - INFO: ------执行测试用例------
+[2020-05-13 14:02:13,901] - logger.py] - INFO: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa：{"actId": "222"}
+[2020-05-13 14:02:13,903] - logger.py] - INFO: 本次请求接口详细路径:http://market.shixhmit.com/raffleActivityReward/getRewardByActId
+[2020-05-13 14:02:13,917] - logger.py] - INFO: 请求结果：{"code":4001,"message":"参数不能为空!","data":null}
+[2020-05-13 14:02:13,919] - logger.py] - INFO: ------测试用例执行完成，f开始对比结果------
+[2020-05-13 14:02:13,921] - logger.py] - INFO: 测试结果比对
+[2020-05-13 14:02:13,923] - logger.py] - INFO: 预期结果:200,实际结果:200
+[2020-05-13 14:02:13,925] - logger.py] - INFO: 打印参数：{'actId': '222'}
+[2020-05-13 14:02:13,927] - logger.py] - INFO: 预期message:ok,实际message:None
+[2020-05-13 14:02:13,929] - logger.py] - INFO: 预期message code:0,实际message code:4001
+[2020-05-13 14:02:13,931] - logger.py] - INFO: ------执行测试用例------
+[2020-05-13 14:02:13,932] - logger.py] - INFO: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa：{"actId": "333"}
+[2020-05-13 14:02:13,934] - logger.py] - INFO: 本次请求接口详细路径:http://market.shixhmit.com/raffleActivityReward/getRewardByActId
+[2020-05-13 14:02:13,947] - logger.py] - INFO: 请求结果：{"code":4001,"message":"参数不能为空!","data":null}
+[2020-05-13 14:02:13,949] - logger.py] - INFO: ------测试用例执行完成，f开始对比结果------
+[2020-05-13 14:02:13,951] - logger.py] - INFO: 测试结果比对
+[2020-05-13 14:02:13,953] - logger.py] - INFO: 预期结果:200,实际结果:200
+[2020-05-13 14:02:13,955] - logger.py] - INFO: 打印参数：{'actId': '333'}
+[2020-05-13 14:02:13,956] - logger.py] - INFO: 预期message:ok,实际message:None
+[2020-05-13 14:02:13,958] - logger.py] - INFO: 预期message code:0,实际message code:4001
+[2020-05-13 14:02:13,960] - logger.py] - INFO: ------执行测试用例------
+[2020-05-13 14:02:13,961] - logger.py] - INFO: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa：{"actId": "500"}
+[2020-05-13 14:02:13,963] - logger.py] - INFO: 本次请求接口详细路径:http://market.shixhmit.com/raffleActivityReward/getRewardByActId
+[2020-05-13 14:02:13,975] - logger.py] - INFO: 请求结果：{"code":4001,"message":"参数不能为空!","data":null}
+[2020-05-13 14:02:13,977] - logger.py] - INFO: ------测试用例执行完成，f开始对比结果------
+[2020-05-13 14:02:13,979] - logger.py] - INFO: 测试结果比对
+[2020-05-13 14:02:13,980] - logger.py] - INFO: 预期结果:200,实际结果:200
+[2020-05-13 14:02:13,982] - logger.py] - INFO: 打印参数：{'actId': '500'}
+[2020-05-13 14:02:13,984] - logger.py] - INFO: 预期message:ok,实际message:None
+[2020-05-13 14:02:13,986] - logger.py] - INFO: 预期message code:0,实际message code:4001
+[2020-05-13 14:02:13,988] - logger.py] - INFO: ------执行测试用例------
+[2020-05-13 14:02:13,990] - logger.py] - INFO: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa：{"pageNum": "0"}
+[2020-05-13 14:02:13,991] - logger.py] - INFO: 本次请求接口详细路径:http://market.shixhuat.com/banner/chooseFenfaGroupList
+[2020-05-13 14:02:14,022] - logger.py] - INFO: 请求结果：{"code":1000,"message":null,"data":{"total":6,"rows":[{"pageNum":null,"pageSize":null,"creator":7728,"creatorName":"朱鹏飞","creatorIp":null,"id":6,"groupName":"zpf分组1"},{"pageNum":null,"pageSize":null,"creator":7816,"creatorName":"高鹏383","creatorIp":null,"id":5,"groupName":"中商团购分组"},{"pageNum":null,"pageSize":null,"creator":7821,"creatorName":"马运","creatorIp":null,"id":4,"groupName":"马云"},{"pageNum":null,"pageSize":null,"creator":7820,"creatorName":"万城市经理","creatorIp":null,"id":3,"groupName":"四爷"},{"pageNum":null,"pageSize":null,"creator":7821,"creatorName":"马运","creatorIp":null,"id":2,"groupName":"测试"},{"pageNum":null,"pageSize":null,"creator":7857,"creatorName":"liujie","creatorIp":null,"id":1,"groupName":"json"}]}}
+[2020-05-13 14:02:14,024] - logger.py] - INFO: ------测试用例执行完成，f开始对比结果------
+[2020-05-13 14:02:14,025] - logger.py] - INFO: 测试结果比对
+[2020-05-13 14:02:14,027] - logger.py] - INFO: 预期结果:200,实际结果:200
+[2020-05-13 14:02:14,028] - logger.py] - INFO: 打印参数：{'pageNum': '0'}
+[2020-05-13 14:02:14,029] - logger.py] - INFO: 预期message:ok,实际message:{'total': 6, 'rows': [{'pageNum': None, 'pageSize': None, 'creator': 7728, 'creatorName': '朱鹏飞', 'creatorIp': None, 'id': 6, 'groupName': 'zpf分组1'}, {'pageNum': None, 'pageSize': None, 'creator': 7816, 'creatorName': '高鹏383', 'creatorIp': None, 'id': 5, 'groupName': '中商团购分组'}, {'pageNum': None, 'pageSize': None, 'creator': 7821, 'creatorName': '马运', 'creatorIp': None, 'id': 4, 'groupName': '马云'}, {'pageNum': None, 'pageSize': None, 'creator': 7820, 'creatorName': '万城市经理', 'creatorIp': None, 'id': 3, 'groupName': '四爷'}, {'pageNum': None, 'pageSize': None, 'creator': 7821, 'creatorName': '马运', 'creatorIp': None, 'id': 2, 'groupName': '测试'}, {'pageNum': None, 'pageSize': None, 'creator': 7857, 'creatorName': 'liujie', 'creatorIp': None, 'id': 1, 'groupName': 'json'}]}
+[2020-05-13 14:02:14,032] - logger.py] - INFO: 预期message code:0,实际message code:1000
+[2020-05-13 14:13:23,716] - logger.py] - INFO: ------执行测试用例------
+[2020-05-13 14:13:23,719] - logger.py] - INFO: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa：{"actId": "453"}
+[2020-05-13 14:13:23,720] - logger.py] - INFO: 本次请求接口详细路径:http://market.shixhmit.com/raffleActivityReward/getRewardByActId
+[2020-05-13 14:13:23,772] - logger.py] - INFO: 请求结果：{"code":4001,"message":"参数不能为空!","data":null}
+[2020-05-13 14:13:23,774] - logger.py] - INFO: ------测试用例执行完成，f开始对比结果------
+[2020-05-13 14:13:23,776] - logger.py] - INFO: 测试结果比对
+[2020-05-13 14:13:23,778] - logger.py] - INFO: 预期结果:200,实际结果:200
+[2020-05-13 14:13:23,779] - logger.py] - INFO: 打印参数：{'actId': '453'}
+[2020-05-13 14:13:23,781] - logger.py] - INFO: 预期message:ok,实际message:None
+[2020-05-13 14:13:23,783] - logger.py] - INFO: 预期message code:0,实际message code:4001
+[2020-05-13 14:13:23,785] - logger.py] - INFO: ------执行测试用例------
+[2020-05-13 14:13:23,786] - logger.py] - INFO: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa：{"actId": "244"}
+[2020-05-13 14:13:23,788] - logger.py] - INFO: 本次请求接口详细路径:http://market.shixhmit.com/raffleActivityReward/getRewardByActId
+[2020-05-13 14:13:23,802] - logger.py] - INFO: 请求结果：{"code":4001,"message":"参数不能为空!","data":null}
+[2020-05-13 14:13:23,804] - logger.py] - INFO: ------测试用例执行完成，f开始对比结果------
+[2020-05-13 14:13:23,806] - logger.py] - INFO: 测试结果比对
+[2020-05-13 14:13:23,807] - logger.py] - INFO: 预期结果:200,实际结果:200
+[2020-05-13 14:13:23,809] - logger.py] - INFO: 打印参数：{'actId': '244'}
+[2020-05-13 14:13:23,811] - logger.py] - INFO: 预期message:ok,实际message:None
+[2020-05-13 14:13:23,813] - logger.py] - INFO: 预期message code:0,实际message code:4001
+[2020-05-13 14:13:23,815] - logger.py] - INFO: ------执行测试用例------
+[2020-05-13 14:13:23,816] - logger.py] - INFO: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa：{"actId": "111"}
+[2020-05-13 14:13:23,818] - logger.py] - INFO: 本次请求接口详细路径:http://market.shixhmit.com/raffleActivityReward/getRewardByActId
+[2020-05-13 14:13:23,830] - logger.py] - INFO: 请求结果：{"code":4001,"message":"参数不能为空!","data":null}
+[2020-05-13 14:13:23,833] - logger.py] - INFO: ------测试用例执行完成，f开始对比结果------
+[2020-05-13 14:13:23,833] - logger.py] - INFO: 测试结果比对
+[2020-05-13 14:13:23,835] - logger.py] - INFO: 预期结果:200,实际结果:200
+[2020-05-13 14:13:23,838] - logger.py] - INFO: 打印参数：{'actId': '111'}
+[2020-05-13 14:13:23,839] - logger.py] - INFO: 预期message:ok,实际message:None
+[2020-05-13 14:13:23,840] - logger.py] - INFO: 预期message code:0,实际message code:4001
+[2020-05-13 14:13:23,842] - logger.py] - INFO: ------执行测试用例------
+[2020-05-13 14:13:23,844] - logger.py] - INFO: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa：{"actId": "222"}
+[2020-05-13 14:13:23,846] - logger.py] - INFO: 本次请求接口详细路径:http://market.shixhmit.com/raffleActivityReward/getRewardByActId
+[2020-05-13 14:13:23,860] - logger.py] - INFO: 请求结果：{"code":4001,"message":"参数不能为空!","data":null}
+[2020-05-13 14:13:23,862] - logger.py] - INFO: ------测试用例执行完成，f开始对比结果------
+[2020-05-13 14:13:23,863] - logger.py] - INFO: 测试结果比对
+[2020-05-13 14:13:23,865] - logger.py] - INFO: 预期结果:200,实际结果:200
+[2020-05-13 14:13:23,867] - logger.py] - INFO: 打印参数：{'actId': '222'}
+[2020-05-13 14:13:23,868] - logger.py] - INFO: 预期message:ok,实际message:None
+[2020-05-13 14:13:23,870] - logger.py] - INFO: 预期message code:0,实际message code:4001
+[2020-05-13 14:13:23,872] - logger.py] - INFO: ------执行测试用例------
+[2020-05-13 14:13:23,873] - logger.py] - INFO: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa：{"actId": "333"}
+[2020-05-13 14:13:23,875] - logger.py] - INFO: 本次请求接口详细路径:http://market.shixhmit.com/raffleActivityReward/getRewardByActId
+[2020-05-13 14:13:23,887] - logger.py] - INFO: 请求结果：{"code":4001,"message":"参数不能为空!","data":null}
+[2020-05-13 14:13:23,889] - logger.py] - INFO: ------测试用例执行完成，f开始对比结果------
+[2020-05-13 14:13:23,890] - logger.py] - INFO: 测试结果比对
+[2020-05-13 14:13:23,892] - logger.py] - INFO: 预期结果:200,实际结果:200
+[2020-05-13 14:13:23,894] - logger.py] - INFO: 打印参数：{'actId': '333'}
+[2020-05-13 14:13:23,896] - logger.py] - INFO: 预期message:ok,实际message:None
+[2020-05-13 14:13:23,897] - logger.py] - INFO: 预期message code:0,实际message code:4001
+[2020-05-13 14:13:23,899] - logger.py] - INFO: ------执行测试用例------
+[2020-05-13 14:13:23,901] - logger.py] - INFO: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa：{"actId": "500"}
+[2020-05-13 14:13:23,903] - logger.py] - INFO: 本次请求接口详细路径:http://market.shixhmit.com/raffleActivityReward/getRewardByActId
+[2020-05-13 14:13:23,916] - logger.py] - INFO: 请求结果：{"code":4001,"message":"参数不能为空!","data":null}
+[2020-05-13 14:13:23,918] - logger.py] - INFO: ------测试用例执行完成，f开始对比结果------
+[2020-05-13 14:13:23,919] - logger.py] - INFO: 测试结果比对
+[2020-05-13 14:13:23,921] - logger.py] - INFO: 预期结果:200,实际结果:200
+[2020-05-13 14:13:23,923] - logger.py] - INFO: 打印参数：{'actId': '500'}
+[2020-05-13 14:13:23,925] - logger.py] - INFO: 预期message:ok,实际message:None
+[2020-05-13 14:13:23,926] - logger.py] - INFO: 预期message code:0,实际message code:4001
+[2020-05-13 14:13:23,929] - logger.py] - INFO: ------执行测试用例------
+[2020-05-13 14:13:23,931] - logger.py] - INFO: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa：{"pageNum": "0"}
+[2020-05-13 14:13:23,932] - logger.py] - INFO: 本次请求接口详细路径:http://market.shixhuat.com/banner/chooseFenfaGroupList
+[2020-05-13 14:13:23,967] - logger.py] - INFO: 请求结果：{"code":1000,"message":null,"data":{"total":6,"rows":[{"pageNum":null,"pageSize":null,"creator":7728,"creatorName":"朱鹏飞","creatorIp":null,"id":6,"groupName":"zpf分组1"},{"pageNum":null,"pageSize":null,"creator":7816,"creatorName":"高鹏383","creatorIp":null,"id":5,"groupName":"中商团购分组"},{"pageNum":null,"pageSize":null,"creator":7821,"creatorName":"马运","creatorIp":null,"id":4,"groupName":"马云"},{"pageNum":null,"pageSize":null,"creator":7820,"creatorName":"万城市经理","creatorIp":null,"id":3,"groupName":"四爷"},{"pageNum":null,"pageSize":null,"creator":7821,"creatorName":"马运","creatorIp":null,"id":2,"groupName":"测试"},{"pageNum":null,"pageSize":null,"creator":7857,"creatorName":"liujie","creatorIp":null,"id":1,"groupName":"json"}]}}
+[2020-05-13 14:13:23,969] - logger.py] - INFO: ------测试用例执行完成，f开始对比结果------
+[2020-05-13 14:13:23,971] - logger.py] - INFO: 测试结果比对
+[2020-05-13 14:13:23,972] - logger.py] - INFO: 预期结果:200,实际结果:200
+[2020-05-13 14:13:23,974] - logger.py] - INFO: 打印参数：{'pageNum': '0'}
+[2020-05-13 14:13:23,976] - logger.py] - INFO: 预期message:ok,实际message:{'total': 6, 'rows': [{'pageNum': None, 'pageSize': None, 'creator': 7728, 'creatorName': '朱鹏飞', 'creatorIp': None, 'id': 6, 'groupName': 'zpf分组1'}, {'pageNum': None, 'pageSize': None, 'creator': 7816, 'creatorName': '高鹏383', 'creatorIp': None, 'id': 5, 'groupName': '中商团购分组'}, {'pageNum': None, 'pageSize': None, 'creator': 7821, 'creatorName': '马运', 'creatorIp': None, 'id': 4, 'groupName': '马云'}, {'pageNum': None, 'pageSize': None, 'creator': 7820, 'creatorName': '万城市经理', 'creatorIp': None, 'id': 3, 'groupName': '四爷'}, {'pageNum': None, 'pageSize': None, 'creator': 7821, 'creatorName': '马运', 'creatorIp': None, 'id': 2, 'groupName': '测试'}, {'pageNum': None, 'pageSize': None, 'creator': 7857, 'creatorName': 'liujie', 'creatorIp': None, 'id': 1, 'groupName': 'json'}]}
+[2020-05-13 14:13:23,978] - logger.py] - INFO: 预期message code:0,实际message code:1000
+[2020-05-13 14:39:01,879] - logger.py] - INFO: ------执行测试用例------
+[2020-05-13 14:39:01,880] - logger.py] - INFO: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa：{"actId": "453"}
+[2020-05-13 14:39:01,882] - logger.py] - INFO: 本次请求接口详细路径:http://market.shixhmit.com/raffleActivityReward/getRewardByActId
+[2020-05-13 14:39:01,918] - logger.py] - INFO: 请求结果：{"code":4001,"message":"参数不能为空!","data":null}
+[2020-05-13 14:39:01,920] - logger.py] - INFO: ------测试用例执行完成，f开始对比结果------
+[2020-05-13 14:39:01,921] - logger.py] - INFO: 测试结果比对
+[2020-05-13 14:39:01,923] - logger.py] - INFO: 预期结果:200,实际结果:200
+[2020-05-13 14:39:01,924] - logger.py] - INFO: 打印参数：{'actId': '453'}
+[2020-05-13 14:39:01,928] - logger.py] - INFO: 预期message:ok,实际message:None
+[2020-05-13 14:39:01,929] - logger.py] - INFO: 预期message code:0,实际message code:4001
+[2020-05-13 14:39:01,931] - logger.py] - INFO: ------执行测试用例------
+[2020-05-13 14:39:01,933] - logger.py] - INFO: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa：{"actId": "244"}
+[2020-05-13 14:39:01,935] - logger.py] - INFO: 本次请求接口详细路径:http://market.shixhmit.com/raffleActivityReward/getRewardByActId
+[2020-05-13 14:39:01,950] - logger.py] - INFO: 请求结果：{"code":4001,"message":"参数不能为空!","data":null}
+[2020-05-13 14:39:01,953] - logger.py] - INFO: ------测试用例执行完成，f开始对比结果------
+[2020-05-13 14:39:01,955] - logger.py] - INFO: 测试结果比对
+[2020-05-13 14:39:01,958] - logger.py] - INFO: 预期结果:200,实际结果:200
+[2020-05-13 14:39:01,961] - logger.py] - INFO: 打印参数：{'actId': '244'}
+[2020-05-13 14:39:01,964] - logger.py] - INFO: 预期message:ok,实际message:None
+[2020-05-13 14:39:01,966] - logger.py] - INFO: 预期message code:0,实际message code:4001
+[2020-05-13 14:39:01,968] - logger.py] - INFO: ------执行测试用例------
+[2020-05-13 14:39:01,970] - logger.py] - INFO: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa：{"actId": "111"}
+[2020-05-13 14:39:01,972] - logger.py] - INFO: 本次请求接口详细路径:http://market.shixhmit.com/raffleActivityReward/getRewardByActId
+[2020-05-13 14:39:01,987] - logger.py] - INFO: 请求结果：{"code":4001,"message":"参数不能为空!","data":null}
+[2020-05-13 14:39:01,989] - logger.py] - INFO: ------测试用例执行完成，f开始对比结果------
+[2020-05-13 14:39:01,991] - logger.py] - INFO: 测试结果比对
+[2020-05-13 14:39:01,992] - logger.py] - INFO: 预期结果:200,实际结果:200
+[2020-05-13 14:39:01,994] - logger.py] - INFO: 打印参数：{'actId': '111'}
+[2020-05-13 14:39:01,996] - logger.py] - INFO: 预期message:ok,实际message:None
+[2020-05-13 14:39:01,998] - logger.py] - INFO: 预期message code:0,实际message code:4001
+[2020-05-13 14:39:02,000] - logger.py] - INFO: ------执行测试用例------
+[2020-05-13 14:39:02,002] - logger.py] - INFO: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa：{"actId": "222"}
+[2020-05-13 14:39:02,004] - logger.py] - INFO: 本次请求接口详细路径:http://market.shixhmit.com/raffleActivityReward/getRewardByActId
+[2020-05-13 14:39:02,020] - logger.py] - INFO: 请求结果：{"code":4001,"message":"参数不能为空!","data":null}
+[2020-05-13 14:39:02,022] - logger.py] - INFO: ------测试用例执行完成，f开始对比结果------
+[2020-05-13 14:39:02,024] - logger.py] - INFO: 测试结果比对
+[2020-05-13 14:39:02,026] - logger.py] - INFO: 预期结果:200,实际结果:200
+[2020-05-13 14:39:02,029] - logger.py] - INFO: 打印参数：{'actId': '222'}
+[2020-05-13 14:39:02,031] - logger.py] - INFO: 预期message:ok,实际message:None
+[2020-05-13 14:39:02,033] - logger.py] - INFO: 预期message code:0,实际message code:4001
+[2020-05-13 14:39:02,036] - logger.py] - INFO: ------执行测试用例------
+[2020-05-13 14:39:02,038] - logger.py] - INFO: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa：{"actId": "333"}
+[2020-05-13 14:39:02,040] - logger.py] - INFO: 本次请求接口详细路径:http://market.shixhmit.com/raffleActivityReward/getRewardByActId
+[2020-05-13 14:39:02,058] - logger.py] - INFO: 请求结果：{"code":4001,"message":"参数不能为空!","data":null}
+[2020-05-13 14:39:02,060] - logger.py] - INFO: ------测试用例执行完成，f开始对比结果------
+[2020-05-13 14:39:02,061] - logger.py] - INFO: 测试结果比对
+[2020-05-13 14:39:02,063] - logger.py] - INFO: 预期结果:200,实际结果:200
+[2020-05-13 14:39:02,065] - logger.py] - INFO: 打印参数：{'actId': '333'}
+[2020-05-13 14:39:02,067] - logger.py] - INFO: 预期message:ok,实际message:None
+[2020-05-13 14:39:02,069] - logger.py] - INFO: 预期message code:0,实际message code:4001
+[2020-05-13 14:39:02,071] - logger.py] - INFO: ------执行测试用例------
+[2020-05-13 14:39:02,072] - logger.py] - INFO: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa：{"actId": "500"}
+[2020-05-13 14:39:02,074] - logger.py] - INFO: 本次请求接口详细路径:http://market.shixhmit.com/raffleActivityReward/getRewardByActId
+[2020-05-13 14:39:02,089] - logger.py] - INFO: 请求结果：{"code":4001,"message":"参数不能为空!","data":null}
+[2020-05-13 14:39:02,091] - logger.py] - INFO: ------测试用例执行完成，f开始对比结果------
+[2020-05-13 14:39:02,093] - logger.py] - INFO: 测试结果比对
+[2020-05-13 14:39:02,094] - logger.py] - INFO: 预期结果:200,实际结果:200
+[2020-05-13 14:39:02,096] - logger.py] - INFO: 打印参数：{'actId': '500'}
+[2020-05-13 14:39:02,099] - logger.py] - INFO: 预期message:ok,实际message:None
+[2020-05-13 14:39:02,101] - logger.py] - INFO: 预期message code:0,实际message code:4001
+[2020-05-13 14:39:02,105] - logger.py] - INFO: ------执行测试用例------
+[2020-05-13 14:39:02,107] - logger.py] - INFO: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa：{"pageNum": "0"}
+[2020-05-13 14:39:02,109] - logger.py] - INFO: 本次请求接口详细路径:http://market.shixhuat.com/banner/chooseFenfaGroupList
+[2020-05-13 14:39:02,152] - logger.py] - INFO: 请求结果：{"code":1000,"message":null,"data":{"total":6,"rows":[{"pageNum":null,"pageSize":null,"creator":7728,"creatorName":"朱鹏飞","creatorIp":null,"id":6,"groupName":"zpf分组1"},{"pageNum":null,"pageSize":null,"creator":7816,"creatorName":"高鹏383","creatorIp":null,"id":5,"groupName":"中商团购分组"},{"pageNum":null,"pageSize":null,"creator":7821,"creatorName":"马运","creatorIp":null,"id":4,"groupName":"马云"},{"pageNum":null,"pageSize":null,"creator":7820,"creatorName":"万城市经理","creatorIp":null,"id":3,"groupName":"四爷"},{"pageNum":null,"pageSize":null,"creator":7821,"creatorName":"马运","creatorIp":null,"id":2,"groupName":"测试"},{"pageNum":null,"pageSize":null,"creator":7857,"creatorName":"liujie","creatorIp":null,"id":1,"groupName":"json"}]}}
+[2020-05-13 14:39:02,154] - logger.py] - INFO: ------测试用例执行完成，f开始对比结果------
+[2020-05-13 14:39:02,156] - logger.py] - INFO: 测试结果比对
+[2020-05-13 14:39:02,158] - logger.py] - INFO: 预期结果:200,实际结果:200
+[2020-05-13 14:39:02,160] - logger.py] - INFO: 打印参数：{'pageNum': '0'}
+[2020-05-13 14:39:02,162] - logger.py] - INFO: 预期message:ok,实际message:{'total': 6, 'rows': [{'pageNum': None, 'pageSize': None, 'creator': 7728, 'creatorName': '朱鹏飞', 'creatorIp': None, 'id': 6, 'groupName': 'zpf分组1'}, {'pageNum': None, 'pageSize': None, 'creator': 7816, 'creatorName': '高鹏383', 'creatorIp': None, 'id': 5, 'groupName': '中商团购分组'}, {'pageNum': None, 'pageSize': None, 'creator': 7821, 'creatorName': '马运', 'creatorIp': None, 'id': 4, 'groupName': '马云'}, {'pageNum': None, 'pageSize': None, 'creator': 7820, 'creatorName': '万城市经理', 'creatorIp': None, 'id': 3, 'groupName': '四爷'}, {'pageNum': None, 'pageSize': None, 'creator': 7821, 'creatorName': '马运', 'creatorIp': None, 'id': 2, 'groupName': '测试'}, {'pageNum': None, 'pageSize': None, 'creator': 7857, 'creatorName': 'liujie', 'creatorIp': None, 'id': 1, 'groupName': 'json'}]}
+[2020-05-13 14:39:02,164] - logger.py] - INFO: 预期message code:0,实际message code:1000
+[2020-05-13 15:04:15,974] - logger.py] - INFO: ------执行测试用例------
+[2020-05-13 15:04:15,976] - logger.py] - INFO: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa：{"actId": "453"}
+[2020-05-13 15:04:15,978] - logger.py] - INFO: 本次请求接口详细路径:http://market.shixhmit.com/raffleActivityReward/getRewardByActId
+[2020-05-13 15:04:16,028] - logger.py] - INFO: 请求结果：{"code":1000,"message":null,"data":[]}
+[2020-05-13 15:04:16,030] - logger.py] - INFO: ------测试用例执行完成，f开始对比结果------
+[2020-05-13 15:04:16,032] - logger.py] - INFO: 测试结果比对
+[2020-05-13 15:04:16,033] - logger.py] - INFO: 预期结果:200,实际结果:200
+[2020-05-13 15:04:16,035] - logger.py] - INFO: 打印参数：{'actId': '453'}
+[2020-05-13 15:04:16,037] - logger.py] - INFO: 预期message:ok,实际message:[]
+[2020-05-13 15:04:16,039] - logger.py] - INFO: 预期message code:0,实际message code:1000
+[2020-05-13 15:04:16,042] - logger.py] - INFO: ------执行测试用例------
+[2020-05-13 15:04:16,043] - logger.py] - INFO: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa：{"actId": "244"}
+[2020-05-13 15:04:16,045] - logger.py] - INFO: 本次请求接口详细路径:http://market.shixhmit.com/raffleActivityReward/getRewardByActId
+[2020-05-13 15:04:16,073] - logger.py] - INFO: 请求结果：{"code":1000,"message":null,"data":[]}
+[2020-05-13 15:04:16,075] - logger.py] - INFO: ------测试用例执行完成，f开始对比结果------
+[2020-05-13 15:04:16,077] - logger.py] - INFO: 测试结果比对
+[2020-05-13 15:04:16,079] - logger.py] - INFO: 预期结果:200,实际结果:200
+[2020-05-13 15:04:16,081] - logger.py] - INFO: 打印参数：{'actId': '244'}
+[2020-05-13 15:04:16,083] - logger.py] - INFO: 预期message:ok,实际message:[]
+[2020-05-13 15:04:16,085] - logger.py] - INFO: 预期message code:0,实际message code:1000
+[2020-05-13 15:04:16,088] - logger.py] - INFO: ------执行测试用例------
+[2020-05-13 15:04:16,090] - logger.py] - INFO: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa：{"actId": "111"}
+[2020-05-13 15:04:16,092] - logger.py] - INFO: 本次请求接口详细路径:http://market.shixhmit.com/raffleActivityReward/getRewardByActId
+[2020-05-13 15:04:16,167] - logger.py] - INFO: 请求结果：{"code":1000,"message":null,"data":[{"deleteFlag":false,"creator":769,"creatorName":"adminliu","creatorIp":null,"createTime":"2020-01-14T09:48:47.000+0000","modifier":769,"modifierName":"adminliu","modifierIp":null,"modifyTime":"2020-01-14T09:48:47.000+0000","id":2131,"raffleActivityId":111,"type":1,"sort":1,"fullNum":0.00,"giveNum":0.00,"limitNum":0,"chance":10.00},{"deleteFlag":false,"creator":769,"creatorName":"adminliu","creatorIp":null,"createTime":"2020-01-14T09:48:47.000+0000","modifier":769,"modifierName":"adminliu","modifierIp":null,"modifyTime":"2020-01-14T09:48:47.000+0000","id":2132,"raffleActivityId":111,"type":0,"sort":2,"fullNum":0.00,"giveNum":11.00,"limitNum":1,"chance":10.00},{"deleteFlag":false,"creator":769,"creatorName":"adminliu","creatorIp":null,"createTime":"2020-01-14T09:48:47.000+0000","modifier":769,"modifierName":"adminliu","modifierIp":null,"modifyTime":"2020-01-14T09:48:47.000+0000","id":2133,"raffleActivityId":111,"type":1,"sort":3,"fullNum":0.00,"giveNum":0.00,"limitNum":0,"chance":10.00},{"deleteFlag":false,"creator":769,"creatorName":"adminliu","creatorIp":null,"createTime":"2020-01-14T09:48:47.000+0000","modifier":769,"modifierName":"adminliu","modifierIp":null,"modifyTime":"2020-01-14T09:48:47.000+0000","id":2134,"raffleActivityId":111,"type":1,"sort":4,"fullNum":0.00,"giveNum":0.00,"limitNum":0,"chance":10.00},{"deleteFlag":false,"creator":769,"creatorName":"adminliu","creatorIp":null,"createTime":"2020-01-14T09:48:47.000+0000","modifier":769,"modifierName":"adminliu","modifierIp":null,"modifyTime":"2020-01-14T09:48:47.000+0000","id":2135,"raffleActivityId":111,"type":1,"sort":5,"fullNum":0.00,"giveNum":0.00,"limitNum":0,"chance":10.00},{"deleteFlag":false,"creator":769,"creatorName":"adminliu","creatorIp":null,"createTime":"2020-01-14T09:48:47.000+0000","modifier":769,"modifierName":"adminliu","modifierIp":null,"modifyTime":"2020-01-14T09:48:47.000+0000","id":2136,"raffleActivityId":111,"type":1,"sort":6,"fullNum":0.00,"giveNum":0.00,"limitNum":0,"chance":10.00},{"deleteFlag":false,"creator":769,"creatorName":"adminliu","creatorIp":null,"createTime":"2020-01-14T09:48:47.000+0000","modifier":769,"modifierName":"adminliu","modifierIp":null,"modifyTime":"2020-01-14T09:48:47.000+0000","id":2137,"raffleActivityId":111,"type":1,"sort":7,"fullNum":0.00,"giveNum":0.00,"limitNum":0,"chance":10.00},{"deleteFlag":false,"creator":769,"creatorName":"adminliu","creatorIp":null,"createTime":"2020-01-14T09:48:47.000+0000","modifier":769,"modifierName":"adminliu","modifierIp":null,"modifyTime":"2020-01-14T09:48:47.000+0000","id":2138,"raffleActivityId":111,"type":1,"sort":8,"fullNum":0.00,"giveNum":0.00,"limitNum":0,"chance":30.00}]}
+[2020-05-13 15:04:16,169] - logger.py] - INFO: ------测试用例执行完成，f开始对比结果------
+[2020-05-13 15:04:16,172] - logger.py] - INFO: 测试结果比对
+[2020-05-13 15:04:16,174] - logger.py] - INFO: 预期结果:200,实际结果:200
+[2020-05-13 15:04:16,176] - logger.py] - INFO: 打印参数：{'actId': '111'}
+[2020-05-13 15:04:16,179] - logger.py] - INFO: 预期message:ok,实际message:[{'deleteFlag': False, 'creator': 769, 'creatorName': 'adminliu', 'creatorIp': None, 'createTime': '2020-01-14T09:48:47.000+0000', 'modifier': 769, 'modifierName': 'adminliu', 'modifierIp': None, 'modifyTime': '2020-01-14T09:48:47.000+0000', 'id': 2131, 'raffleActivityId': 111, 'type': 1, 'sort': 1, 'fullNum': 0.0, 'giveNum': 0.0, 'limitNum': 0, 'chance': 10.0}, {'deleteFlag': False, 'creator': 769, 'creatorName': 'adminliu', 'creatorIp': None, 'createTime': '2020-01-14T09:48:47.000+0000', 'modifier': 769, 'modifierName': 'adminliu', 'modifierIp': None, 'modifyTime': '2020-01-14T09:48:47.000+0000', 'id': 2132, 'raffleActivityId': 111, 'type': 0, 'sort': 2, 'fullNum': 0.0, 'giveNum': 11.0, 'limitNum': 1, 'chance': 10.0}, {'deleteFlag': False, 'creator': 769, 'creatorName': 'adminliu', 'creatorIp': None, 'createTime': '2020-01-14T09:48:47.000+0000', 'modifier': 769, 'modifierName': 'adminliu', 'modifierIp': None, 'modifyTime': '2020-01-14T09:48:47.000+0000', 'id': 2133, 'raffleActivityId': 111, 'type': 1, 'sort': 3, 'fullNum': 0.0, 'giveNum': 0.0, 'limitNum': 0, 'chance': 10.0}, {'deleteFlag': False, 'creator': 769, 'creatorName': 'adminliu', 'creatorIp': None, 'createTime': '2020-01-14T09:48:47.000+0000', 'modifier': 769, 'modifierName': 'adminliu', 'modifierIp': None, 'modifyTime': '2020-01-14T09:48:47.000+0000', 'id': 2134, 'raffleActivityId': 111, 'type': 1, 'sort': 4, 'fullNum': 0.0, 'giveNum': 0.0, 'limitNum': 0, 'chance': 10.0}, {'deleteFlag': False, 'creator': 769, 'creatorName': 'adminliu', 'creatorIp': None, 'createTime': '2020-01-14T09:48:47.000+0000', 'modifier': 769, 'modifierName': 'adminliu', 'modifierIp': None, 'modifyTime': '2020-01-14T09:48:47.000+0000', 'id': 2135, 'raffleActivityId': 111, 'type': 1, 'sort': 5, 'fullNum': 0.0, 'giveNum': 0.0, 'limitNum': 0, 'chance': 10.0}, {'deleteFlag': False, 'creator': 769, 'creatorName': 'adminliu', 'creatorIp': None, 'createTime': '2020-01-14T09:48:47.000+0000', 'modifier': 769, 'modifierName': 'adminliu', 'modifierIp': None, 'modifyTime': '2020-01-14T09:48:47.000+0000', 'id': 2136, 'raffleActivityId': 111, 'type': 1, 'sort': 6, 'fullNum': 0.0, 'giveNum': 0.0, 'limitNum': 0, 'chance': 10.0}, {'deleteFlag': False, 'creator': 769, 'creatorName': 'adminliu', 'creatorIp': None, 'createTime': '2020-01-14T09:48:47.000+0000', 'modifier': 769, 'modifierName': 'adminliu', 'modifierIp': None, 'modifyTime': '2020-01-14T09:48:47.000+0000', 'id': 2137, 'raffleActivityId': 111, 'type': 1, 'sort': 7, 'fullNum': 0.0, 'giveNum': 0.0, 'limitNum': 0, 'chance': 10.0}, {'deleteFlag': False, 'creator': 769, 'creatorName': 'adminliu', 'creatorIp': None, 'createTime': '2020-01-14T09:48:47.000+0000', 'modifier': 769, 'modifierName': 'adminliu', 'modifierIp': None, 'modifyTime': '2020-01-14T09:48:47.000+0000', 'id': 2138, 'raffleActivityId': 111, 'type': 1, 'sort': 8, 'fullNum': 0.0, 'giveNum': 0.0, 'limitNum': 0, 'chance': 30.0}]
+[2020-05-13 15:04:16,181] - logger.py] - INFO: 预期message code:0,实际message code:1000
+[2020-05-13 15:04:16,184] - logger.py] - INFO: ------执行测试用例------
+[2020-05-13 15:04:16,186] - logger.py] - INFO: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa：{"actId": "222"}
+[2020-05-13 15:04:16,188] - logger.py] - INFO: 本次请求接口详细路径:http://market.shixhmit.com/raffleActivityReward/getRewardByActId
+[2020-05-13 15:04:16,291] - logger.py] - INFO: 请求结果：{"code":1000,"message":null,"data":[{"deleteFlag":false,"creator":288,"creatorName":"hehehe","creatorIp":null,"createTime":"2020-04-21T03:40:07.000+0000","modifier":288,"modifierName":"hehehe","modifierIp":null,"modifyTime":"2020-04-21T03:40:07.000+0000","id":4419,"raffleActivityId":222,"type":0,"sort":1,"fullNum":100.00,"giveNum":2.00,"limitNum":3,"chance":100.00},{"deleteFlag":false,"creator":288,"creatorName":"hehehe","creatorIp":null,"createTime":"2020-04-21T03:40:07.000+0000","modifier":288,"modifierName":"hehehe","modifierIp":null,"modifyTime":"2020-04-21T03:40:07.000+0000","id":4420,"raffleActivityId":222,"type":1,"sort":2,"fullNum":0.00,"giveNum":0.00,"limitNum":0,"chance":0.00},{"deleteFlag":false,"creator":288,"creatorName":"hehehe","creatorIp":null,"createTime":"2020-04-21T03:40:07.000+0000","modifier":288,"modifierName":"hehehe","modifierIp":null,"modifyTime":"2020-04-21T03:40:07.000+0000","id":4421,"raffleActivityId":222,"type":1,"sort":3,"fullNum":0.00,"giveNum":0.00,"limitNum":0,"chance":0.00},{"deleteFlag":false,"creator":288,"creatorName":"hehehe","creatorIp":null,"createTime":"2020-04-21T03:40:07.000+0000","modifier":288,"modifierName":"hehehe","modifierIp":null,"modifyTime":"2020-04-21T03:40:07.000+0000","id":4422,"raffleActivityId":222,"type":1,"sort":4,"fullNum":0.00,"giveNum":0.00,"limitNum":0,"chance":0.00},{"deleteFlag":false,"creator":288,"creatorName":"hehehe","creatorIp":null,"createTime":"2020-04-21T03:40:07.000+0000","modifier":288,"modifierName":"hehehe","modifierIp":null,"modifyTime":"2020-04-21T03:40:07.000+0000","id":4423,"raffleActivityId":222,"type":1,"sort":5,"fullNum":0.00,"giveNum":0.00,"limitNum":0,"chance":0.00},{"deleteFlag":false,"creator":288,"creatorName":"hehehe","creatorIp":null,"createTime":"2020-04-21T03:40:07.000+0000","modifier":288,"modifierName":"hehehe","modifierIp":null,"modifyTime":"2020-04-21T03:40:07.000+0000","id":4424,"raffleActivityId":222,"type":1,"sort":6,"fullNum":0.00,"giveNum":0.00,"limitNum":0,"chance":0.00},{"deleteFlag":false,"creator":288,"creatorName":"hehehe","creatorIp":null,"createTime":"2020-04-21T03:40:07.000+0000","modifier":288,"modifierName":"hehehe","modifierIp":null,"modifyTime":"2020-04-21T03:40:07.000+0000","id":4425,"raffleActivityId":222,"type":1,"sort":7,"fullNum":0.00,"giveNum":0.00,"limitNum":0,"chance":0.00},{"deleteFlag":false,"creator":288,"creatorName":"hehehe","creatorIp":null,"createTime":"2020-04-21T03:40:07.000+0000","modifier":288,"modifierName":"hehehe","modifierIp":null,"modifyTime":"2020-04-21T03:40:07.000+0000","id":4426,"raffleActivityId":222,"type":1,"sort":8,"fullNum":0.00,"giveNum":0.00,"limitNum":0,"chance":0.00}]}
+[2020-05-13 15:04:16,293] - logger.py] - INFO: ------测试用例执行完成，f开始对比结果------
+[2020-05-13 15:04:16,295] - logger.py] - INFO: 测试结果比对
+[2020-05-13 15:04:16,297] - logger.py] - INFO: 预期结果:200,实际结果:200
+[2020-05-13 15:04:16,299] - logger.py] - INFO: 打印参数：{'actId': '222'}
+[2020-05-13 15:04:16,301] - logger.py] - INFO: 预期message:ok,实际message:[{'deleteFlag': False, 'creator': 288, 'creatorName': 'hehehe', 'creatorIp': None, 'createTime': '2020-04-21T03:40:07.000+0000', 'modifier': 288, 'modifierName': 'hehehe', 'modifierIp': None, 'modifyTime': '2020-04-21T03:40:07.000+0000', 'id': 4419, 'raffleActivityId': 222, 'type': 0, 'sort': 1, 'fullNum': 100.0, 'giveNum': 2.0, 'limitNum': 3, 'chance': 100.0}, {'deleteFlag': False, 'creator': 288, 'creatorName': 'hehehe', 'creatorIp': None, 'createTime': '2020-04-21T03:40:07.000+0000', 'modifier': 288, 'modifierName': 'hehehe', 'modifierIp': None, 'modifyTime': '2020-04-21T03:40:07.000+0000', 'id': 4420, 'raffleActivityId': 222, 'type': 1, 'sort': 2, 'fullNum': 0.0, 'giveNum': 0.0, 'limitNum': 0, 'chance': 0.0}, {'deleteFlag': False, 'creator': 288, 'creatorName': 'hehehe', 'creatorIp': None, 'createTime': '2020-04-21T03:40:07.000+0000', 'modifier': 288, 'modifierName': 'hehehe', 'modifierIp': None, 'modifyTime': '2020-04-21T03:40:07.000+0000', 'id': 4421, 'raffleActivityId': 222, 'type': 1, 'sort': 3, 'fullNum': 0.0, 'giveNum': 0.0, 'limitNum': 0, 'chance': 0.0}, {'deleteFlag': False, 'creator': 288, 'creatorName': 'hehehe', 'creatorIp': None, 'createTime': '2020-04-21T03:40:07.000+0000', 'modifier': 288, 'modifierName': 'hehehe', 'modifierIp': None, 'modifyTime': '2020-04-21T03:40:07.000+0000', 'id': 4422, 'raffleActivityId': 222, 'type': 1, 'sort': 4, 'fullNum': 0.0, 'giveNum': 0.0, 'limitNum': 0, 'chance': 0.0}, {'deleteFlag': False, 'creator': 288, 'creatorName': 'hehehe', 'creatorIp': None, 'createTime': '2020-04-21T03:40:07.000+0000', 'modifier': 288, 'modifierName': 'hehehe', 'modifierIp': None, 'modifyTime': '2020-04-21T03:40:07.000+0000', 'id': 4423, 'raffleActivityId': 222, 'type': 1, 'sort': 5, 'fullNum': 0.0, 'giveNum': 0.0, 'limitNum': 0, 'chance': 0.0}, {'deleteFlag': False, 'creator': 288, 'creatorName': 'hehehe', 'creatorIp': None, 'createTime': '2020-04-21T03:40:07.000+0000', 'modifier': 288, 'modifierName': 'hehehe', 'modifierIp': None, 'modifyTime': '2020-04-21T03:40:07.000+0000', 'id': 4424, 'raffleActivityId': 222, 'type': 1, 'sort': 6, 'fullNum': 0.0, 'giveNum': 0.0, 'limitNum': 0, 'chance': 0.0}, {'deleteFlag': False, 'creator': 288, 'creatorName': 'hehehe', 'creatorIp': None, 'createTime': '2020-04-21T03:40:07.000+0000', 'modifier': 288, 'modifierName': 'hehehe', 'modifierIp': None, 'modifyTime': '2020-04-21T03:40:07.000+0000', 'id': 4425, 'raffleActivityId': 222, 'type': 1, 'sort': 7, 'fullNum': 0.0, 'giveNum': 0.0, 'limitNum': 0, 'chance': 0.0}, {'deleteFlag': False, 'creator': 288, 'creatorName': 'hehehe', 'creatorIp': None, 'createTime': '2020-04-21T03:40:07.000+0000', 'modifier': 288, 'modifierName': 'hehehe', 'modifierIp': None, 'modifyTime': '2020-04-21T03:40:07.000+0000', 'id': 4426, 'raffleActivityId': 222, 'type': 1, 'sort': 8, 'fullNum': 0.0, 'giveNum': 0.0, 'limitNum': 0, 'chance': 0.0}]
+[2020-05-13 15:04:16,304] - logger.py] - INFO: 预期message code:0,实际message code:1000
+[2020-05-13 15:04:16,307] - logger.py] - INFO: ------执行测试用例------
+[2020-05-13 15:04:16,309] - logger.py] - INFO: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa：{"actId": "333"}
+[2020-05-13 15:04:16,311] - logger.py] - INFO: 本次请求接口详细路径:http://market.shixhmit.com/raffleActivityReward/getRewardByActId
+[2020-05-13 15:04:16,329] - logger.py] - INFO: 请求结果：{"code":1000,"message":null,"data":[]}
+[2020-05-13 15:04:16,331] - logger.py] - INFO: ------测试用例执行完成，f开始对比结果------
+[2020-05-13 15:04:16,333] - logger.py] - INFO: 测试结果比对
+[2020-05-13 15:04:16,334] - logger.py] - INFO: 预期结果:200,实际结果:200
+[2020-05-13 15:04:16,336] - logger.py] - INFO: 打印参数：{'actId': '333'}
+[2020-05-13 15:04:16,338] - logger.py] - INFO: 预期message:ok,实际message:[]
+[2020-05-13 15:04:16,340] - logger.py] - INFO: 预期message code:0,实际message code:1000
+[2020-05-13 15:04:16,343] - logger.py] - INFO: ------执行测试用例------
+[2020-05-13 15:04:16,344] - logger.py] - INFO: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa：{"actId": "500"}
+[2020-05-13 15:04:16,346] - logger.py] - INFO: 本次请求接口详细路径:http://market.shixhmit.com/raffleActivityReward/getRewardByActId
+[2020-05-13 15:04:16,362] - logger.py] - INFO: 请求结果：{"code":1000,"message":null,"data":[]}
+[2020-05-13 15:04:16,364] - logger.py] - INFO: ------测试用例执行完成，f开始对比结果------
+[2020-05-13 15:04:16,366] - logger.py] - INFO: 测试结果比对
+[2020-05-13 15:04:16,367] - logger.py] - INFO: 预期结果:200,实际结果:200
+[2020-05-13 15:04:16,369] - logger.py] - INFO: 打印参数：{'actId': '500'}
+[2020-05-13 15:04:16,371] - logger.py] - INFO: 预期message:ok,实际message:[]
+[2020-05-13 15:04:16,373] - logger.py] - INFO: 预期message code:0,实际message code:1000
+[2020-05-13 15:04:16,375] - logger.py] - INFO: ------执行测试用例------
+[2020-05-13 15:04:16,377] - logger.py] - INFO: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa：{"pageNum": "0"}
+[2020-05-13 15:04:16,378] - logger.py] - INFO: 本次请求接口详细路径:http://market.shixhuat.com/banner/chooseFenfaGroupList
+[2020-05-13 15:04:16,452] - logger.py] - INFO: 请求结果：{"code":1000,"message":null,"data":{"total":6,"rows":[{"pageNum":null,"pageSize":null,"creator":7728,"creatorName":"朱鹏飞","creatorIp":null,"id":6,"groupName":"zpf分组1"},{"pageNum":null,"pageSize":null,"creator":7816,"creatorName":"高鹏383","creatorIp":null,"id":5,"groupName":"中商团购分组"},{"pageNum":null,"pageSize":null,"creator":7821,"creatorName":"马运","creatorIp":null,"id":4,"groupName":"马云"},{"pageNum":null,"pageSize":null,"creator":7820,"creatorName":"万城市经理","creatorIp":null,"id":3,"groupName":"四爷"},{"pageNum":null,"pageSize":null,"creator":7821,"creatorName":"马运","creatorIp":null,"id":2,"groupName":"测试"},{"pageNum":null,"pageSize":null,"creator":7857,"creatorName":"liujie","creatorIp":null,"id":1,"groupName":"json"}]}}
+[2020-05-13 15:04:16,454] - logger.py] - INFO: ------测试用例执行完成，f开始对比结果------
+[2020-05-13 15:04:16,456] - logger.py] - INFO: 测试结果比对
+[2020-05-13 15:04:16,458] - logger.py] - INFO: 预期结果:200,实际结果:200
+[2020-05-13 15:04:16,459] - logger.py] - INFO: 打印参数：{'pageNum': '0'}
+[2020-05-13 15:04:16,461] - logger.py] - INFO: 预期message:ok,实际message:{'total': 6, 'rows': [{'pageNum': None, 'pageSize': None, 'creator': 7728, 'creatorName': '朱鹏飞', 'creatorIp': None, 'id': 6, 'groupName': 'zpf分组1'}, {'pageNum': None, 'pageSize': None, 'creator': 7816, 'creatorName': '高鹏383', 'creatorIp': None, 'id': 5, 'groupName': '中商团购分组'}, {'pageNum': None, 'pageSize': None, 'creator': 7821, 'creatorName': '马运', 'creatorIp': None, 'id': 4, 'groupName': '马云'}, {'pageNum': None, 'pageSize': None, 'creator': 7820, 'creatorName': '万城市经理', 'creatorIp': None, 'id': 3, 'groupName': '四爷'}, {'pageNum': None, 'pageSize': None, 'creator': 7821, 'creatorName': '马运', 'creatorIp': None, 'id': 2, 'groupName': '测试'}, {'pageNum': None, 'pageSize': None, 'creator': 7857, 'creatorName': 'liujie', 'creatorIp': None, 'id': 1, 'groupName': 'json'}]}
+[2020-05-13 15:04:16,463] - logger.py] - INFO: 预期message code:0,实际message code:1000
