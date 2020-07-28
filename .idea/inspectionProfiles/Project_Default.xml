@@ -1,0 +1,44 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="自动化脚本.implicitly_wait" />
+          <option value="自动化脚本.maximize_window" />
+          <option value="自动化脚本.firefoxDriver" />
+          <option value="自动化脚本.*" />
+          <option value="baidumodule.driver" />
+          <option value="module.baidumodule" />
+          <option value="fenli._name_" />
+          <option value="guanwang.sxh_guanwang.applyName" />
+          <option value="HTMLTestRunner" />
+          <option value="venv.Lib.os.riscosenviron" />
+          <option value="venv.Lib.os.WIFSTOPPED" />
+          <option value="venv.Lib.os.WIFSIGNALED" />
+          <option value="venv.Lib.os.WTERMSIG" />
+          <option value="venv.Lib.os.WIFEXITED" />
+          <option value="venv.Lib.os.WEXITSTATUS" />
+          <option value="venv.Lib.os.basestring" />
+          <option value="copy_reg" />
+          <option value="venv.Lib.os.posix" />
+          <option value="venv.Lib.os.os2" />
+          <option value="venv.Lib.os._emx_link" />
+          <option value="venv.Lib.os.ce" />
+          <option value="venv.Lib.os.riscos" />
+          <option value="config.settings" />
+          <option value="api_test.common.Trequest.config" />
+          <option value="requests.adapters" />
+          <option value="assertE" />
+          <option value="assertpy" />
+          <option value="venv.Lib.warnings.unicode" />
+          <option value="venv.Lib.warnings.basestring" />
+          <option value="sys.setdefaultencoding" />
+          <option value="api_test.common.xlrdt.base64" />
+          <option value="os" />
+          <option value="api_test.common.function.HTMLTestReportCN" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
