@@ -32,7 +32,7 @@ class mytest(unittest.TestCase):  #继承unittest.TestCase这个类
     @classmethod
     def setUpClass(self):        #需要配合@classmethod装饰器一起使用。（在所有用例前后总共各执行一次。）
         print(u'接口测试第一个接口开始调用')
-    @ddt.data (*Api_Data_read(r'C:\Users\EDZ\Desktop\ziyuanbao\untitled2\api_test\case\case1\Api_data2.xlsx','Api_data'))
+    @ddt.data (*Api_Data_read(r'C:\Users\EDZ\Desktop\ziyuanbao\untitled2\api_test\case\case1\Api_data1.xlsx','Api_data'))
     @ddt.unpack  #如果有unpack，那么[a,b]被分解开，按照用例中的两个参数传递
     def test_api_run(self,value,tovalue):
         '''测试用例'''
