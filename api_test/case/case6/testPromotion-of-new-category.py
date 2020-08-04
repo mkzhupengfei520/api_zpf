@@ -11,7 +11,7 @@ import assertE
 #导入日志模板
 from api_test.common.logger import Log
 #导入读取配置文件的模板
-from api_test.case.case4.__init__ import *
+from api_test.case.case6.__init__ import *
 @ddt.ddt
 class mytest(unittest.TestCase):  #继承unittest.TestCase这个类
     '''第三个接口测试'''
@@ -28,12 +28,12 @@ class mytest(unittest.TestCase):  #继承unittest.TestCase这个类
 
     @classmethod
     def tearDownClass(self):    #需要配合@classmethod装饰器一起使用。（在所有用例前后总共各执行一次。）
-        print(u'第三个接口测试完成')
+        print(u'第六个接口测试完成')
 
     @classmethod
     def setUpClass(self):        #需要配合@classmethod装饰器一起使用。（在所有用例前后总共各执行一次。）
-        print(u'接口测试第三个接口开始调用')
-    @ddt.data (*Api_Data_read(r'C:\Users\EDZ\Desktop\ziyuanbao\untitled2\api_test\case\case4\Api_data4.xlsx','Api_data'))
+        print(u'接口测试第六个接口开始调用')
+    @ddt.data (*Api_Data_read(r'C:\Users\EDZ\Desktop\ziyuanbao\untitled2\api_test\case\case6\Api_data6.xlsx','Api_data'))
     @ddt.unpack  #如果有unpack，那么[a,b]被分解开，按照用例中的两个参数传递
     def test_api_run(self,value,tovalue):
         '''测试用例'''
