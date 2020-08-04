@@ -26,11 +26,14 @@ if __name__ == '__main__':
     Testlist = function.Test_init()  #实例化类对象，然后用类方法
     all_case = Testlist.add_case(cur_path=cur_path,caseName=casePath,rule=caseName)
     Testlist.run_case(cur_path=cur_path,all_case=all_case)
+    print(all_case)
+    print(casePath)
+
     sender = readconfig.get_mailpath(cur_path=cur_path) #获取发放邮件使用的邮箱配置
     #调用数据库做数据回滚
-    sql = mysql_db.DB()  #实例化类，然后用类方法
+    #sql = mysql_db.DB()  #实例化类，然后用类方法
 
-    sqlde = sql.delete(table_name=tablename)
+    #sqlde = sql.delete(table_name=tablename)
 
 
 

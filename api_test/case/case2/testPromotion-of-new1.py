@@ -12,6 +12,7 @@ import assertE
 from api_test.common.logger import Log
 from api_test.case.case2.__init__ import *
 @ddt.ddt
+
 class mytest(unittest.TestCase):  #继承unittest.TestCase这个类
     '''第二个接口测试'''
     log = Log()

@@ -4,7 +4,7 @@ import os
 import configparser
 
 cur_path = os.path.dirname(os.path.realpath(__file__))
-configpath = os.path.join(cur_path, "cfg.ini")
+configpath = os.path.join(cur_path, "cfg1.ini")
 conf = configparser.ConfigParser()
 conf.read(configpath)
 #读取接口配置
